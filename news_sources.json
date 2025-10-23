@@ -1,0 +1,455 @@
+[
+  {
+    "id": "reuters_global",
+    "name": "Reuters",
+    "homepageUrl": "https://www.reuters.com",
+    "rssUrls": [
+      "https://www.reuters.com/rssFeed/worldNews"
+    ],
+    "originCountry": "United Kingdom",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "World",
+      "Business",
+      "Politics",
+      "Technology"
+    ],
+    "politicalLeaning": "CENTRE",
+    "accessType": "FREEMIUM_METERED",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Reuters_Logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "Thomson Reuters",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Thomson_Reuters"
+      ],
+      "isPubliclyListed": true
+    },
+    "ownerDetailsUrl": "https://www.thomsonreuters.com/",
+    "notes": "International news agency known for factual reporting.",
+    "isPriority": true
+  },
+  {
+    "id": "bbc_news_uk",
+    "name": "BBC News",
+    "homepageUrl": "https://www.bbc.com/news",
+    "rssUrls": [
+      "https://feeds.bbci.co.uk/news/rss.xml"
+    ],
+    "originCountry": "United Kingdom",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "World",
+      "Politics",
+      "Science",
+      "Culture"
+    ],
+    "politicalLeaning": "CENTRE_LEFT",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_News_2022_%28Alt%29.svg",
+    "ownerInfo": {
+      "ownerType": "GOVERNMENT",
+      "entityName": "British Broadcasting Corporation",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/BBC"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": "https://www.bbc.co.uk/",
+    "isPriority": true
+  },
+  {
+    "id": "nytimes_us",
+    "name": "The New York Times",
+    "homepageUrl": "https://www.nytimes.com",
+    "rssUrls": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    ],
+    "originCountry": "USA",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "World",
+      "Politics",
+      "Opinion",
+      "Culture"
+    ],
+    "politicalLeaning": "CENTRE_LEFT",
+    "accessType": "FREEMIUM_METERED",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/New_York_Times_logo_variation.jpg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "The New York Times Company",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/The_New_York_Times_Company"
+      ],
+      "isPubliclyListed": true
+    },
+    "ownerDetailsUrl": null,
+    "notes": null,
+    "isPriority": true
+  },
+  {
+    "id": "the_guardian_uk",
+    "name": "The Guardian",
+    "homepageUrl": "https://www.theguardian.com/international",
+    "rssUrls": [
+      "https://www.theguardian.com/world/rss"
+    ],
+    "originCountry": "United Kingdom",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "World",
+      "Politics",
+      "Culture",
+      "Environment"
+    ],
+    "politicalLeaning": "LEFT",
+    "accessType": "FREEMIUM_METERED",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Guardian_2018.svg",
+    "ownerInfo": {
+      "ownerType": "DONATION_DRIVEN",
+      "entityName": "Scott Trust Limited",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Guardian_Media_Group"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": null,
+    "isPriority": false
+  },
+  {
+    "id": "ndtv_india",
+    "name": "NDTV",
+    "homepageUrl": "https://www.ndtv.com",
+    "rssUrls": [
+      "https://feeds.feedburner.com/ndtvnews-top-stories"
+    ],
+    "originCountry": "India",
+    "supportedLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "National",
+      "Politics",
+      "World",
+      "Business"
+    ],
+    "politicalLeaning": "CENTRE",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/NDTV_logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "New Delhi Television Ltd",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/NDTV"
+      ],
+      "isPubliclyListed": true
+    },
+    "ownerDetailsUrl": null,
+    "notes": null,
+    "isPriority": false
+  },
+  {
+    "id": "asahi_japan",
+    "name": "The Asahi Shimbun",
+    "homepageUrl": "https://www.asahi.com/ajw/",
+    "rssUrls": [
+      "https://www.asahi.com/rss/english.rdf"
+    ],
+    "originCountry": "Japan",
+    "supportedLanguages": [
+      "Japanese",
+      "English"
+    ],
+    "categories": [
+      "World",
+      "Politics",
+      "Society"
+    ],
+    "politicalLeaning": "CENTRE_LEFT",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Asahi_Shimbun_logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "The Asahi Shimbun Company",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Asahi_Shimbun"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": null,
+    "isPriority": false
+  },
+  {
+    "id": "abc_australia",
+    "name": "ABC News Australia",
+    "homepageUrl": "https://www.abc.net.au/news/",
+    "rssUrls": [
+      "https://www.abc.net.au/news/feed/51120/rss.xml"
+    ],
+    "originCountry": "Australia",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "National",
+      "World",
+      "Politics",
+      "Science"
+    ],
+    "politicalLeaning": "CENTRE_LEFT",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/ABC_News_%28Australia%29_logo.svg",
+    "ownerInfo": {
+      "ownerType": "GOVERNMENT",
+      "entityName": "Australian Broadcasting Corporation",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/ABC_News_(Australia)"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": null,
+    "isPriority": false
+  },
+  {
+    "id": "aljazeera_me",
+    "name": "Al Jazeera English",
+    "homepageUrl": "https://www.aljazeera.com",
+    "rssUrls": [
+      "https://www.aljazeera.com/xml/rss/all.xml"
+    ],
+    "originCountry": "Qatar",
+    "supportedLanguages": [
+      "English",
+      "Arabic"
+    ],
+    "categories": [
+      "World",
+      "Middle East",
+      "Politics",
+      "Economy"
+    ],
+    "politicalLeaning": "CENTRE",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/Al_Jazeera_English_Logo.svg",
+    "ownerInfo": {
+      "ownerType": "GOVERNMENT",
+      "entityName": "Al Jazeera Media Network",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Al_Jazeera"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "Qatar funded",
+    "isPriority": false
+  },
+  {
+    "id": "cgtn_china",
+    "name": "CGTN",
+    "homepageUrl": "https://www.cgtn.com",
+    "rssUrls": [],
+    "originCountry": "China",
+    "supportedLanguages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "French",
+      "Arabic",
+      "Russian"
+    ],
+    "categories": [
+      "World",
+      "Business",
+      "Culture"
+    ],
+    "politicalLeaning": "AUTHORITARIAN",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/CGTN_logo.svg",
+    "ownerInfo": {
+      "ownerType": "GOVERNMENT",
+      "entityName": "China Media Group",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/CGTN"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "State-owned media",
+    "isPriority": false
+  },
+  {
+    "id": "wired_tech_science",
+    "name": "Wired",
+    "homepageUrl": "https://www.wired.com",
+    "rssUrls": [
+      "https://www.wired.com/feed/rss"
+    ],
+    "originCountry": "USA",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "Technology",
+      "Science",
+      "Culture"
+    ],
+    "politicalLeaning": "CENTRE",
+    "accessType": "SUBSCRIPTION",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wired_Logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "Condé Nast",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Wired_(magazine)"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "Science & technology magazine",
+    "isPriority": false
+  },
+  {
+    "id": "espn_sports_us",
+    "name": "ESPN",
+    "homepageUrl": "https://www.espn.com",
+    "rssUrls": [
+      "https://www.espn.com/espn/rss/news"
+    ],
+    "originCountry": "USA",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "Sports",
+      "Culture",
+      "Business"
+    ],
+    "politicalLeaning": "CENTRE_RIGHT",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "The Walt Disney Company",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/ESPN"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "Major sports news and commentary network",
+    "isPriority": false
+  },
+  {
+    "id": "forbes_business_us",
+    "name": "Forbes",
+    "homepageUrl": "https://www.forbes.com",
+    "rssUrls": [
+      "https://www.forbes.com/business/"
+    ],
+    "originCountry": "USA",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "Business",
+      "Technology",
+      "Wealth"
+    ],
+    "politicalLeaning": "CENTRE_RIGHT",
+    "accessType": "FREE",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Forbes_logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "Forbes Media",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Forbes"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "Business news, finance, and entrepreneurship",
+    "isPriority": false
+  },
+  {
+    "id": "vogue_beauty_us",
+    "name": "Vogue",
+    "homepageUrl": "https://www.vogue.com",
+    "rssUrls": [],
+    "originCountry": "USA",
+    "supportedLanguages": [
+      "English"
+    ],
+    "categories": [
+      "Beauty",
+      "Fashion",
+      "Culture",
+      "Lifestyle"
+    ],
+    "politicalLeaning": "CENTRE",
+    "accessType": "SUBSCRIPTION",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vogue_logo.svg",
+    "ownerInfo": {
+      "ownerType": "CORPORATE",
+      "entityName": "Condé Nast",
+      "ownershipLinks": [
+        "https://en.wikipedia.org/wiki/Vogue_(magazine)"
+      ],
+      "isPubliclyListed": false
+    },
+    "ownerDetailsUrl": null,
+    "notes": "High-end fashion and beauty magazine",
+    "isPriority": false
+  }
+]
