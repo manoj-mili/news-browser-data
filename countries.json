@@ -1,0 +1,167 @@
+[
+  {
+    "displayName": "United States",
+    "nativeName": "United States",
+    "flagEmoji": "🇺🇸",
+    "gl": "US",
+    "hl": ["en"],
+    "languagesDisplay": ["English"],
+    "defaultLanguage": "en",
+    "region": "North America",
+    "isRecommended": true
+  },
+  {
+    "displayName": "United Kingdom",
+    "nativeName": "United Kingdom",
+    "flagEmoji": "🇬🇧",
+    "gl": "GB",
+    "hl": ["en-GB"],
+    "languagesDisplay": ["English"],
+    "defaultLanguage": "en-GB",
+    "region": "Europe",
+    "isRecommended": true
+  },
+  {
+    "displayName": "India",
+    "nativeName": "भारत",
+    "flagEmoji": "🇮🇳",
+    "gl": "IN",
+    "hl": ["en-IN", "hi"],
+    "languagesDisplay": ["English", "Hindi"],
+    "defaultLanguage": "en-IN",
+    "region": "Asia",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Japan",
+    "nativeName": "日本",
+    "flagEmoji": "🇯🇵",
+    "gl": "JP",
+    "hl": ["ja"],
+    "languagesDisplay": ["Japanese"],
+    "defaultLanguage": "ja",
+    "region": "Asia",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Australia",
+    "nativeName": "Australia",
+    "flagEmoji": "🇦🇺",
+    "gl": "AU",
+    "hl": ["en-AU"],
+    "languagesDisplay": ["English"],
+    "defaultLanguage": "en-AU",
+    "region": "Oceania",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Canada",
+    "nativeName": "Canada",
+    "flagEmoji": "🇨🇦",
+    "gl": "CA",
+    "hl": ["en-CA", "fr-CA"],
+    "languagesDisplay": ["English", "French"],
+    "defaultLanguage": "en-CA",
+    "region": "North America",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Germany",
+    "nativeName": "Deutschland",
+    "flagEmoji": "🇩🇪",
+    "gl": "DE",
+    "hl": ["de"],
+    "languagesDisplay": ["German"],
+    "defaultLanguage": "de",
+    "region": "Europe",
+    "isRecommended": true
+  },
+  {
+    "displayName": "France",
+    "nativeName": "France",
+    "flagEmoji": "🇫🇷",
+    "gl": "FR",
+    "hl": ["fr"],
+    "languagesDisplay": ["French"],
+    "defaultLanguage": "fr",
+    "region": "Europe",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Brazil",
+    "nativeName": "Brasil",
+    "flagEmoji": "🇧🇷",
+    "gl": "BR",
+    "hl": ["pt-BR"],
+    "languagesDisplay": ["Portuguese"],
+    "defaultLanguage": "pt-BR",
+    "region": "South America",
+    "isRecommended": true
+  },
+  {
+    "displayName": "South Korea",
+    "nativeName": "대한민국",
+    "flagEmoji": "🇰🇷",
+    "gl": "KR",
+    "hl": ["ko"],
+    "languagesDisplay": ["Korean"],
+    "defaultLanguage": "ko",
+    "region": "Asia",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Singapore",
+    "nativeName": "Singapore",
+    "flagEmoji": "🇸🇬",
+    "gl": "SG",
+    "hl": ["en-SG", "zh-CN"],
+    "languagesDisplay": ["English", "Chinese"],
+    "defaultLanguage": "en-SG",
+    "region": "Asia",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Qatar",
+    "nativeName": "قطر",
+    "flagEmoji": "🇶🇦",
+    "gl": "QA",
+    "hl": ["ar", "en"],
+    "languagesDisplay": ["Arabic", "English"],
+    "defaultLanguage": "ar",
+    "region": "Middle East",
+    "isRecommended": true
+  },
+  {
+    "displayName": "United Arab Emirates",
+    "nativeName": "الإمارات العربية المتحدة",
+    "flagEmoji": "🇦🇪",
+    "gl": "AE",
+    "hl": ["ar", "en"],
+    "languagesDisplay": ["Arabic", "English"],
+    "defaultLanguage": "en",
+    "region": "Middle East",
+    "isRecommended": false
+  },
+  {
+    "displayName": "Italy",
+    "nativeName": "Italia",
+    "flagEmoji": "🇮🇹",
+    "gl": "IT",
+    "hl": ["it"],
+    "languagesDisplay": ["Italian"],
+    "defaultLanguage": "it",
+    "region": "Europe",
+    "isRecommended": false
+  },
+  {
+    "displayName": "Spain",
+    "nativeName": "España",
+    "flagEmoji": "🇪🇸",
+    "gl": "ES",
+    "hl": ["es"],
+    "languagesDisplay": ["Spanish"],
+    "defaultLanguage": "es",
+    "region": "Europe",
+    "isRecommended": false
+  }
+]
