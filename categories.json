@@ -1,0 +1,149 @@
+[
+  {
+    "id": "business",
+    "displayName": "Business",
+    "topicCode": "BUSINESS",
+    "icon": "briefcase",
+    "isRecommended": true
+  },
+  {
+    "id": "finance",
+    "displayName": "Finance",
+    "topicCode": "BUSINESS",
+    "icon": "banknote",
+    "isRecommended": true
+  },
+  {
+    "id": "politics",
+    "displayName": "Politics",
+    "topicCode": "POLITICS",
+    "icon": "scale",
+    "isRecommended": true
+  },
+  {
+    "id": "world_affairs",
+    "displayName": "World Affairs",
+    "topicCode": "WORLD",
+    "icon": "globe",
+    "isRecommended": true
+  },
+  {
+    "id": "climate",
+    "displayName": "Climate",
+    "topicCode": "SCIENCE",
+    "icon": "leaf",
+    "isRecommended": true
+  },
+  {
+    "id": "health",
+    "displayName": "Health",
+    "topicCode": "HEALTH",
+    "icon": "heart-pulse",
+    "isRecommended": true
+  },
+  {
+    "id": "science",
+    "displayName": "Science",
+    "topicCode": "SCIENCE",
+    "icon": "flask-round",
+    "isRecommended": true
+  },
+  {
+    "id": "culture",
+    "displayName": "Culture",
+    "topicCode": "ENTERTAINMENT",
+    "icon": "theater",
+    "isRecommended": false
+  },
+  {
+    "id": "breaking_news",
+    "displayName": "Breaking News",
+    "topicCode": "NATION",
+    "icon": "alert-triangle",
+    "isRecommended": true
+  },
+  {
+    "id": "tech",
+    "displayName": "Technology",
+    "topicCode": "TECHNOLOGY",
+    "icon": "cpu",
+    "isRecommended": true
+  },
+  {
+    "id": "economy",
+    "displayName": "Economy",
+    "topicCode": "BUSINESS",
+    "icon": "trending-up",
+    "isRecommended": true
+  },
+  {
+    "id": "sports",
+    "displayName": "Sports",
+    "topicCode": "SPORTS",
+    "icon": "trophy",
+    "isRecommended": true
+  },
+  {
+    "id": "learning",
+    "displayName": "Learning",
+    "topicCode": "EDUCATION",
+    "icon": "book-open",
+    "isRecommended": false
+  },
+  {
+    "id": "automotive",
+    "displayName": "Automotive",
+    "topicCode": "TECHNOLOGY",
+    "icon": "car",
+    "isRecommended": false
+  },
+  {
+    "id": "dance",
+    "displayName": "Dance",
+    "topicCode": "ENTERTAINMENT",
+    "icon": "music-2",
+    "isRecommended": false
+  },
+  {
+    "id": "comedy",
+    "displayName": "Comedy",
+    "topicCode": "ENTERTAINMENT",
+    "icon": "laugh",
+    "isRecommended": false
+  },
+  {
+    "id": "arts_crafts",
+    "displayName": "Arts & Crafts",
+    "topicCode": "ENTERTAINMENT",
+    "icon": "palette",
+    "isRecommended": false
+  },
+  {
+    "id": "animals",
+    "displayName": "Animals",
+    "topicCode": "SCIENCE",
+    "icon": "paw-print",
+    "isRecommended": false
+  },
+  {
+    "id": "personal_growth",
+    "displayName": "Personal Growth",
+    "topicCode": "LIFESTYLE",
+    "icon": "sparkles",
+    "isRecommended": false
+  },
+  {
+    "id": "food",
+    "displayName": "Food",
+    "topicCode": "LIFESTYLE",
+    "icon": "utensils",
+    "isRecommended": false
+  },
+  {
+    "id": "beauty_style",
+    "displayName": "Beauty & Style",
+    "topicCode": "LIFESTYLE",
+    "icon": "sparkle",
+    "isRecommended": false
+  }
+]
