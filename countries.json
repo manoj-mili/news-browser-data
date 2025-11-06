@@ -4,9 +4,9 @@
     "nativeName": "United States",
     "flagEmoji": "🇺🇸",
     "gl": "US",
-    "hl": ["en"],
-    "languagesDisplay": ["English"],
-    "defaultLanguage": "en",
+    "hl": [
+      "en"
+    ],
     "region": "North America",
     "isRecommended": true
   },
@@ -15,9 +15,9 @@
     "nativeName": "United Kingdom",
     "flagEmoji": "🇬🇧",
     "gl": "GB",
-    "hl": ["en-GB"],
-    "languagesDisplay": ["English"],
-    "defaultLanguage": "en-GB",
+    "hl": [
+      "en-GB"
+    ],
     "region": "Europe",
     "isRecommended": true
   },
@@ -26,9 +26,10 @@
     "nativeName": "भारत",
     "flagEmoji": "🇮🇳",
     "gl": "IN",
-    "hl": ["en-IN", "hi"],
-    "languagesDisplay": ["English", "Hindi"],
-    "defaultLanguage": "en-IN",
+    "hl": [
+      "en-IN",
+      "hi"
+    ],
     "region": "Asia",
     "isRecommended": true
   },
@@ -37,9 +38,9 @@
     "nativeName": "日本",
     "flagEmoji": "🇯🇵",
     "gl": "JP",
-    "hl": ["ja"],
-    "languagesDisplay": ["Japanese"],
-    "defaultLanguage": "ja",
+    "hl": [
+      "ja"
+    ],
     "region": "Asia",
     "isRecommended": true
   },
@@ -48,9 +49,9 @@
     "nativeName": "Australia",
     "flagEmoji": "🇦🇺",
     "gl": "AU",
-    "hl": ["en-AU"],
-    "languagesDisplay": ["English"],
-    "defaultLanguage": "en-AU",
+    "hl": [
+      "en-AU"
+    ],
     "region": "Oceania",
     "isRecommended": true
   },
@@ -59,9 +60,10 @@
     "nativeName": "Canada",
     "flagEmoji": "🇨🇦",
     "gl": "CA",
-    "hl": ["en-CA", "fr-CA"],
-    "languagesDisplay": ["English", "French"],
-    "defaultLanguage": "en-CA",
+    "hl": [
+      "en-CA",
+      "fr-CA"
+    ],
     "region": "North America",
     "isRecommended": true
   },
@@ -70,9 +72,9 @@
     "nativeName": "Deutschland",
     "flagEmoji": "🇩🇪",
     "gl": "DE",
-    "hl": ["de"],
-    "languagesDisplay": ["German"],
-    "defaultLanguage": "de",
+    "hl": [
+      "de"
+    ],
     "region": "Europe",
     "isRecommended": true
   },
@@ -81,9 +83,9 @@
     "nativeName": "France",
     "flagEmoji": "🇫🇷",
     "gl": "FR",
-    "hl": ["fr"],
-    "languagesDisplay": ["French"],
-    "defaultLanguage": "fr",
+    "hl": [
+      "fr"
+    ],
     "region": "Europe",
     "isRecommended": true
   },
@@ -92,9 +94,9 @@
     "nativeName": "Brasil",
     "flagEmoji": "🇧🇷",
     "gl": "BR",
-    "hl": ["pt-BR"],
-    "languagesDisplay": ["Portuguese"],
-    "defaultLanguage": "pt-BR",
+    "hl": [
+      "pt-BR"
+    ],
     "region": "South America",
     "isRecommended": true
   },
@@ -103,9 +105,9 @@
     "nativeName": "대한민국",
     "flagEmoji": "🇰🇷",
     "gl": "KR",
-    "hl": ["ko"],
-    "languagesDisplay": ["Korean"],
-    "defaultLanguage": "ko",
+    "hl": [
+      "ko"
+    ],
     "region": "Asia",
     "isRecommended": true
   },
@@ -114,9 +116,10 @@
     "nativeName": "Singapore",
     "flagEmoji": "🇸🇬",
     "gl": "SG",
-    "hl": ["en-SG", "zh-CN"],
-    "languagesDisplay": ["English", "Chinese"],
-    "defaultLanguage": "en-SG",
+    "hl": [
+      "en-SG",
+      "zh-CN"
+    ],
     "region": "Asia",
     "isRecommended": true
   },
@@ -125,9 +128,10 @@
     "nativeName": "قطر",
     "flagEmoji": "🇶🇦",
     "gl": "QA",
-    "hl": ["ar", "en"],
-    "languagesDisplay": ["Arabic", "English"],
-    "defaultLanguage": "ar",
+    "hl": [
+      "ar",
+      "en"
+    ],
     "region": "Middle East",
     "isRecommended": true
   },
@@ -136,9 +140,10 @@
     "nativeName": "الإمارات العربية المتحدة",
     "flagEmoji": "🇦🇪",
     "gl": "AE",
-    "hl": ["ar", "en"],
-    "languagesDisplay": ["Arabic", "English"],
-    "defaultLanguage": "en",
+    "hl": [
+      "ar",
+      "en"
+    ],
     "region": "Middle East",
     "isRecommended": false
   },
@@ -147,9 +152,9 @@
     "nativeName": "Italia",
     "flagEmoji": "🇮🇹",
     "gl": "IT",
-    "hl": ["it"],
-    "languagesDisplay": ["Italian"],
-    "defaultLanguage": "it",
+    "hl": [
+      "it"
+    ],
     "region": "Europe",
     "isRecommended": false
   },
@@ -158,10 +163,130 @@
     "nativeName": "España",
     "flagEmoji": "🇪🇸",
     "gl": "ES",
-    "hl": ["es"],
-    "languagesDisplay": ["Spanish"],
-    "defaultLanguage": "es",
+    "hl": [
+      "es"
+    ],
     "region": "Europe",
     "isRecommended": false
+  },
+  {
+    "displayName": "South Africa",
+    "nativeName": "South Africa",
+    "flagEmoji": "🇿🇦",
+    "gl": "ZA",
+    "hl": [
+      "en-ZA",
+      "af",
+      "zu"
+    ],
+    "region": "Africa",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Nigeria",
+    "nativeName": "Nigeria",
+    "flagEmoji": "🇳🇬",
+    "gl": "NG",
+    "hl": [
+      "en-NG",
+      "yo",
+      "ha"
+    ],
+    "region": "Africa",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Kenya",
+    "nativeName": "Kenya",
+    "flagEmoji": "🇰🇪",
+    "gl": "KE",
+    "hl": [
+      "en-KE",
+      "sw"
+    ],
+    "region": "Africa",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Egypt",
+    "nativeName": "مصر",
+    "flagEmoji": "🇪🇬",
+    "gl": "EG",
+    "hl": [
+      "ar",
+      "en"
+    ],
+    "region": "Middle East & North Africa",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Mexico",
+    "nativeName": "México",
+    "flagEmoji": "🇲🇽",
+    "gl": "MX",
+    "hl": [
+      "es-MX"
+    ],
+    "region": "Latin America",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Argentina",
+    "nativeName": "Argentina",
+    "flagEmoji": "🇦🇷",
+    "gl": "AR",
+    "hl": [
+      "es-AR"
+    ],
+    "region": "Latin America",
+    "isRecommended": false
+  },
+  {
+    "displayName": "Sweden",
+    "nativeName": "Sverige",
+    "flagEmoji": "🇸🇪",
+    "gl": "SE",
+    "hl": [
+      "sv",
+      "en"
+    ],
+    "region": "Europe",
+    "isRecommended": false
+  },
+  {
+    "displayName": "Netherlands",
+    "nativeName": "Nederland",
+    "flagEmoji": "🇳🇱",
+    "gl": "NL",
+    "hl": [
+      "nl",
+      "en"
+    ],
+    "region": "Europe",
+    "isRecommended": false
+  },
+  {
+    "displayName": "Philippines",
+    "nativeName": "Pilipinas",
+    "flagEmoji": "🇵🇭",
+    "gl": "PH",
+    "hl": [
+      "en-PH",
+      "tl"
+    ],
+    "region": "Asia",
+    "isRecommended": true
+  },
+  {
+    "displayName": "Indonesia",
+    "nativeName": "Indonesia",
+    "flagEmoji": "🇮🇩",
+    "gl": "ID",
+    "hl": [
+      "id",
+      "en"
+    ],
+    "region": "Asia",
+    "isRecommended": true
   }
 ]
