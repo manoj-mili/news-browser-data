@@ -1,149 +1,123 @@
 [
   {
-    "id": "business",
-    "displayName": "Business",
-    "topicCode": "BUSINESS",
-    "categoryEmoji": "💼",
-    "isRecommended": true
-  },
-  {
-    "id": "finance",
-    "displayName": "Finance",
-    "topicCode": "BUSINESS",
-    "categoryEmoji": "💰",
-    "isRecommended": true
+    "id": "top",
+    "displayName": "Top",
+    "categoryEmoji": "📰",
+    "priority": 1,
+    "notes": "Represents all categories combined. Used for broad or uncategorized feeds."
   },
   {
     "id": "politics",
     "displayName": "Politics",
-    "topicCode": "POLITICS",
-    "categoryEmoji": "⚖️",
-    "isRecommended": true
+    "categoryEmoji": "🏛️",
+    "priority": 2,
+    "notes": "Government policies, elections, political parties, governance, parliament, legislation, public administration."
   },
   {
     "id": "world_affairs",
     "displayName": "World Affairs",
-    "topicCode": "WORLD",
     "categoryEmoji": "🌍",
-    "isRecommended": true
+    "priority": 3,
+    "notes": "International relations, geopolitics, diplomacy, war, global conflicts, international organizations, foreign affairs."
   },
   {
-    "id": "climate",
-    "displayName": "Climate",
-    "topicCode": "SCIENCE",
-    "categoryEmoji": "🌿",
-    "isRecommended": true
-  },
-  {
-    "id": "health",
-    "displayName": "Health",
-    "topicCode": "HEALTH",
-    "categoryEmoji": "❤️",
-    "isRecommended": true
-  },
-  {
-    "id": "science",
-    "displayName": "Science",
-    "topicCode": "SCIENCE",
-    "categoryEmoji": "🔬",
-    "isRecommended": true
-  },
-  {
-    "id": "culture",
-    "displayName": "Culture",
-    "topicCode": "ENTERTAINMENT",
-    "categoryEmoji": "🎭",
-    "isRecommended": false
-  },
-  {
-    "id": "breaking_news",
-    "displayName": "Breaking News",
-    "topicCode": "NATION",
-    "categoryEmoji": "🚨",
-    "isRecommended": true
-  },
-  {
-    "id": "tech",
-    "displayName": "Technology",
-    "topicCode": "TECHNOLOGY",
-    "categoryEmoji": "💻",
-    "isRecommended": true
-  },
-  {
-    "id": "economy",
-    "displayName": "Economy",
-    "topicCode": "BUSINESS",
-    "categoryEmoji": "📈",
-    "isRecommended": true
+    "id": "business",
+    "displayName": "Business",
+    "categoryEmoji": "💼",
+    "priority": 4,
+    "notes": "Corporate news, markets, finance, economy, startups, IPOs, trade, industry insights."
   },
   {
     "id": "sports",
     "displayName": "Sports",
     "topicCode": "SPORTS",
-    "categoryEmoji": "🏆",
-    "isRecommended": true
+    "categoryEmoji": "🏅",
+    "isRecommended": true,
+    "notes": "Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis."
   },
   {
-    "id": "learning",
-    "displayName": "Learning",
-    "topicCode": "EDUCATION",
-    "categoryEmoji": "📚",
-    "isRecommended": false
-  },
-  {
-    "id": "automotive",
-    "displayName": "Automotive",
-    "topicCode": "TECHNOLOGY",
-    "categoryEmoji": "🚗",
-    "isRecommended": false
-  },
-  {
-    "id": "dance",
-    "displayName": "Dance",
+    "id": "entertainment",
+    "displayName": "Entertainment",
     "topicCode": "ENTERTAINMENT",
-    "categoryEmoji": "💃",
-    "isRecommended": false
+    "categoryEmoji": "🎬",
+    "isRecommended": true,
+    "notes": "Movies, TV, celebrities, streaming, music, pop culture, reviews, entertainment industry."
   },
   {
-    "id": "comedy",
-    "displayName": "Comedy",
-    "topicCode": "ENTERTAINMENT",
-    "categoryEmoji": "😂",
-    "isRecommended": false
+    "id": "technology",
+    "displayName": "Technology",
+    "categoryEmoji": "💻",
+    "priority": 5,
+    "notes": "Tech industry, gadgets, AI, cybersecurity, apps, telecom, software, innovation, startups."
   },
   {
-    "id": "arts_crafts",
-    "displayName": "Arts & Crafts",
-    "topicCode": "ENTERTAINMENT",
-    "categoryEmoji": "🎨",
-    "isRecommended": false
+    "id": "science",
+    "displayName": "Science",
+    "categoryEmoji": "🔬",
+    "priority": 6,
+    "notes": "Research, space, physics, biology, astronomy, scientific discoveries, academic studies."
   },
   {
-    "id": "animals",
-    "displayName": "Animals",
-    "topicCode": "SCIENCE",
-    "categoryEmoji": "🐾",
-    "isRecommended": false
+    "id": "health",
+    "displayName": "Health",
+    "categoryEmoji": "🩺",
+    "priority": 7,
+    "notes": "Healthcare, medical research, diseases, wellbeing, mental health, public health policy, fitness science."
   },
   {
-    "id": "personal_growth",
-    "displayName": "Personal Growth",
-    "topicCode": "LIFESTYLE",
+    "id": "environment",
+    "displayName": "Environment",
     "categoryEmoji": "🌱",
-    "isRecommended": false
+    "priority": 8,
+    "notes": "Climate change, sustainability, pollution, conservation, wildlife, weather impact, natural disasters, ecological policy."
+  },
+  {
+    "id": "culture",
+    "displayName": "Culture",
+    "categoryEmoji": "🎭",
+    "priority": 9,
+    "notes": "Arts, heritage, books, literature, festivals, traditions, cultural commentary."
+  },
+  {
+    "id": "lifestyle",
+    "displayName": "Lifestyle",
+    "categoryEmoji": "🌟",
+    "priority": 10,
+    "notes": "Fashion, beauty, style, relationships, home, wellness, personal life, trends, magazines."
   },
   {
     "id": "food",
     "displayName": "Food",
-    "topicCode": "LIFESTYLE",
     "categoryEmoji": "🍽️",
-    "isRecommended": false
+    "priority": 11,
+    "notes": "Cuisine, recipes, restaurant reviews, cooking tips, food culture, dining trends."
   },
   {
-    "id": "beauty_style",
-    "displayName": "Beauty & Style",
-    "topicCode": "LIFESTYLE",
-    "categoryEmoji": "💅",
-    "isRecommended": false
+    "id": "travel",
+    "displayName": "Travel",
+    "categoryEmoji": "✈️",
+    "priority": 12,
+    "notes": "Destinations, travel guides, tourism insights, travel tips, experiences, hotel reviews."
+  },
+  {
+    "id": "opinions",
+    "displayName": "Opinions",
+    "categoryEmoji": "🗣️",
+    "priority": 13,
+    "notes": "Editorials, analysis, commentary, columns, perspectives from experts and public voices."
+  },
+  {
+    "id": "automotive",
+    "displayName": "Automotive",
+    "categoryEmoji": "🚗",
+    "priority": 14,
+    "notes": "Cars, EVs, auto reviews, transportation policy, auto industry news."
+  },
+  {
+    "id": "education",
+    "displayName": "Education",
+    "categoryEmoji": "🎓",
+    "priority": 15,
+    "notes": "Schools, universities, research institutions, scholarships, policy, academic developments."
   }
 ]
