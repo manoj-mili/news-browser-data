@@ -1,0 +1,721 @@
+[
+  {
+    "id": "mint",
+    "name": "Mint",
+    "homepageUrl": "https://www.livemint.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "business",
+      "technology",
+      "opinions"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Business-focused daily (print + digital)."
+  },
+  {
+    "id": "india_today",
+    "name": "India Today",
+    "homepageUrl": "https://www.indiatoday.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "politics",
+      "business"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Major news magazine and network with broad coverage."
+  },
+  {
+    "id": "hindustan_times",
+    "name": "Hindustan Times",
+    "homepageUrl": "https://www.hindustantimes.com",
+    "rssUrls": [
+      "https://www.hindustantimes.com/rss"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "politics",
+      "world_affairs",
+      "business"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Large national daily with multiple sections."
+  },
+  {
+    "id": "ndtv",
+    "name": "NDTV",
+    "homepageUrl": "https://www.ndtv.com",
+    "rssUrls": [
+      "https://www.ndtv.com/rss"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "politics",
+      "business",
+      "technology"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "TV + digital news network; has a fact-check section."
+  },
+  {
+    "id": "indian_express",
+    "name": "The Indian Express",
+    "homepageUrl": "https://indianexpress.com",
+    "rssUrls": [
+      "https://indianexpress.com/rss/"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics",
+      "opinions",
+      "business",
+      "sports"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Well-known national newspaper with in-depth reporting."
+  },
+  {
+    "id": "times_of_india",
+    "name": "Times of India",
+    "homepageUrl": "https://timesofindia.indiatimes.com",
+    "rssUrls": [
+      "https://timesofindia.indiatimes.com/rss.cms"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "business",
+      "entertainment",
+      "sports"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "India's largest English-language daily by circulation."
+  },
+  {
+    "id": "business_standard",
+    "name": "Business Standard",
+    "homepageUrl": "https://www.business-standard.com",
+    "rssUrls": [
+      "https://www.business-standard.com/rss/home_page_top_stories.rss"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "business",
+      "technology"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Well-known business and financial news outlet."
+  },
+  {
+    "id": "firstpost",
+    "name": "Firstpost",
+    "homepageUrl": "https://www.firstpost.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics",
+      "business",
+      "entertainment"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Online news portal part of the Network18 group."
+  },
+  {
+    "id": "the_hindu",
+    "name": "The Hindu",
+    "homepageUrl": "https://www.thehindu.com",
+    "rssUrls": [
+      "https://www.thehindu.com/news/national/feeder/default.rss",
+      "https://www.thehindu.com/news/international/feeder/default.rss",
+      "https://www.thehindu.com/opinion/feeder/default.rss"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics",
+      "world_affairs",
+      "opinions",
+      "science"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Respected national daily with strong editorial reputation."
+  },
+  {
+    "id": "the_hans_india",
+    "name": "The Hans India",
+    "homepageUrl": "https://www.thehansindia.com",
+    "rssUrls": [
+      "https://www.thehansindia.com/rss/rssview"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics",
+      "world_affairs"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "English-language regional/state news coverage."
+  },
+  {
+    "id": "oneindia",
+    "name": "OneIndia",
+    "homepageUrl": "https://www.oneindia.com",
+    "rssUrls": [
+      "https://www.oneindia.com/rss/"
+    ],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Regional"
+    ],
+    "categories": [
+      "politics",
+      "entertainment"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Aggregates national and regional content in several languages."
+  },
+  {
+    "id": "scienceindiamag",
+    "name": "ScienceIndiaMag",
+    "homepageUrl": "https://scienceindiamag.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "science",
+      "technology"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Popular-science coverage, Indian perspective."
+  },
+  {
+    "id": "dream_2047",
+    "name": "Dream 2047",
+    "homepageUrl": "https://vigyanprasar.gov.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "science",
+      "education"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Government-backed popular science magazine (Dream 2047)."
+  },
+  {
+    "id": "science_reporter",
+    "name": "Science Reporter",
+    "homepageUrl": "https://niscair.res.in/ScienceReporter",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "science",
+      "education"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Long-standing popular science monthly from CSIR."
+  },
+  {
+    "id": "sciencenow_digital",
+    "name": "ScienceNow Digital",
+    "homepageUrl": "https://www.sciencenow.co.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "science",
+      "technology",
+      "education"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Digital science magazine focusing on youth and innovation."
+  },
+  {
+    "id": "missmalini",
+    "name": "MissMalini",
+    "homepageUrl": "https://www.missmalini.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "lifestyle",
+      "entertainment",
+      "food"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Popular lifestyle and entertainment site."
+  },
+  {
+    "id": "herzindagi",
+    "name": "HerZindagi",
+    "homepageUrl": "https://www.herzindagi.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "categories": [
+      "lifestyle",
+      "health"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Women-focused lifestyle and wellness content across languages."
+  },
+  {
+    "id": "society_magazine",
+    "name": "Society Magazine",
+    "homepageUrl": "https://www.societymag.co.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "lifestyle",
+      "culture"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Features on personalities, lifestyle, and culture."
+  },
+  {
+    "id": "new_woman",
+    "name": "New Woman",
+    "homepageUrl": "https://www.newwomanindia.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "lifestyle",
+      "health"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Lifestyle and women's interest magazine."
+  },
+  {
+    "id": "the_quint",
+    "name": "The Quint",
+    "homepageUrl": "https://www.thequint.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "opinions",
+      "culture",
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Digital news outlet with WebQoof fact-checking vertical."
+  },
+  {
+    "id": "yourstory",
+    "name": "YourStory",
+    "homepageUrl": "https://yourstory.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "business",
+      "technology"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Startup and entrepreneurship focused digital media."
+  },
+  {
+    "id": "scroll_in",
+    "name": "Scroll.in",
+    "homepageUrl": "https://scroll.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "culture",
+      "politics",
+      "science",
+      "opinions"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Long-form reporting and cultural coverage."
+  },
+  {
+    "id": "the_wire",
+    "name": "The Wire",
+    "homepageUrl": "https://thewire.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics",
+      "culture",
+      "science"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Investigative reporting and analysis."
+  },
+  {
+    "id": "down_to_earth",
+    "name": "Down To Earth",
+    "homepageUrl": "https://www.downtoearth.org.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "environment",
+      "science",
+      "health"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Focuses on environment, sustainable development, health and science."
+  },
+  {
+    "id": "the_better_india",
+    "name": "The Better India",
+    "homepageUrl": "https://www.thebetterindia.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "culture",
+      "health"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Focuses on positive-impact stories across India."
+  },
+  {
+    "id": "femina_india",
+    "name": "Femina India",
+    "homepageUrl": "https://www.femina.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "lifestyle",
+      "health"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Popular women's lifestyle and fashion magazine."
+  },
+  {
+    "id": "gq_india",
+    "name": "GQ India",
+    "homepageUrl": "https://www.gqindia.com",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "lifestyle",
+      "culture"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Men's lifestyle and culture magazine."
+  },
+  {
+    "id": "architectural_digest_india",
+    "name": "Architectural Digest India",
+    "homepageUrl": "https://www.architecturaldigest.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "design",
+      "culture",
+      "lifestyle"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Design and culture magazine."
+  },
+  {
+    "id": "alt_news",
+    "name": "Alt News",
+    "homepageUrl": "https://www.altnews.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Prominent independent fact-checking organization."
+  },
+  {
+    "id": "boom_live",
+    "name": "BOOM Live",
+    "homepageUrl": "https://www.boomlive.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Fact-checking and explainers platform."
+  },
+  {
+    "id": "factchecker_in",
+    "name": "FactChecker.in",
+    "homepageUrl": "https://www.factchecker.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "India's dedicated fact-checking initiative."
+  },
+  {
+    "id": "factcheck_india",
+    "name": "FactCheck India",
+    "homepageUrl": "https://factcheckindia.co.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": false,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Independent fact-checking resource."
+  },
+  {
+    "id": "pib_fact_check",
+    "name": "PIB Fact Check",
+    "homepageUrl": "https://factcheck.pib.gov.in",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English",
+      "Hindi"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "Official government fact-checking portal."
+  },
+  {
+    "id": "webqoof_thequint",
+    "name": "WebQoof (The Quint)",
+    "homepageUrl": "https://www.thequint.com/topic/webqoof",
+    "rssUrls": [],
+    "originCountry": "India",
+    "newsLanguages": [
+      "English"
+    ],
+    "categories": [
+      "politics"
+    ],
+    "accessType": "UNKNOWN",
+    "verified": true,
+    "addedByUser": false,
+    "lastVerifiedAt": null,
+    "logoUrl": "",
+    "notes": "The Quint's fact-checking vertical (WebQoof)."
+  }
+]
