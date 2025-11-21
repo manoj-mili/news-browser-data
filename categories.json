@@ -30,94 +30,92 @@
   {
     "id": "sports",
     "displayName": "Sports",
-    "topicCode": "SPORTS",
     "categoryEmoji": "🏅",
-    "isRecommended": true,
+    "priority": 5,
     "notes": "Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis."
   },
   {
     "id": "entertainment",
     "displayName": "Entertainment",
-    "topicCode": "ENTERTAINMENT",
     "categoryEmoji": "🎬",
-    "isRecommended": true,
+    "priority": 6,
     "notes": "Movies, TV, celebrities, streaming, music, pop culture, reviews, entertainment industry."
   },
   {
     "id": "technology",
     "displayName": "Technology",
     "categoryEmoji": "💻",
-    "priority": 5,
+    "priority": 7,
     "notes": "Tech industry, gadgets, AI, cybersecurity, apps, telecom, software, innovation, startups."
   },
   {
     "id": "science",
     "displayName": "Science",
     "categoryEmoji": "🔬",
-    "priority": 6,
+    "priority": 8,
     "notes": "Research, space, physics, biology, astronomy, scientific discoveries, academic studies."
   },
   {
     "id": "health",
     "displayName": "Health",
     "categoryEmoji": "🩺",
-    "priority": 7,
+    "priority": 9,
     "notes": "Healthcare, medical research, diseases, wellbeing, mental health, public health policy, fitness science."
   },
   {
     "id": "environment",
     "displayName": "Environment",
     "categoryEmoji": "🌱",
-    "priority": 8,
+    "priority": 10,
     "notes": "Climate change, sustainability, pollution, conservation, wildlife, weather impact, natural disasters, ecological policy."
   },
   {
     "id": "culture",
     "displayName": "Culture",
     "categoryEmoji": "🎭",
-    "priority": 9,
+    "priority": 11,
     "notes": "Arts, heritage, books, literature, festivals, traditions, cultural commentary."
   },
   {
     "id": "lifestyle",
     "displayName": "Lifestyle",
     "categoryEmoji": "🌟",
-    "priority": 10,
+    "priority": 12,
     "notes": "Fashion, beauty, style, relationships, home, wellness, personal life, trends, magazines."
   },
   {
     "id": "food",
     "displayName": "Food",
     "categoryEmoji": "🍽️",
-    "priority": 11,
+    "priority": 13,
     "notes": "Cuisine, recipes, restaurant reviews, cooking tips, food culture, dining trends."
   },
   {
     "id": "travel",
     "displayName": "Travel",
     "categoryEmoji": "✈️",
-    "priority": 12,
+    "priority": 14,
     "notes": "Destinations, travel guides, tourism insights, travel tips, experiences, hotel reviews."
   },
   {
     "id": "opinions",
     "displayName": "Opinions",
     "categoryEmoji": "🗣️",
-    "priority": 13,
+    "priority": 15,
     "notes": "Editorials, analysis, commentary, columns, perspectives from experts and public voices."
   },
   {
     "id": "automotive",
     "displayName": "Automotive",
     "categoryEmoji": "🚗",
-    "priority": 14,
+    "priority": 16,
     "notes": "Cars, EVs, auto reviews, transportation policy, auto industry news."
   },
   {
     "id": "education",
     "displayName": "Education",
     "categoryEmoji": "🎓",
-    "priority": 15,
+    "priority": 17,
     "notes": "Schools, universities, research institutions, scholarships, policy, academic developments."
   }
 ]
