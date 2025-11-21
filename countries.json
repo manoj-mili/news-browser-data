@@ -3,7 +3,7 @@
     "displayName": "United States",
     "nativeName": "United States",
     "flagEmoji": "🇺🇸",
-    "gl": "US",
+    "code": "US",
     "hl": [
       "en"
     ],
@@ -14,7 +14,7 @@
     "displayName": "United Kingdom",
     "nativeName": "United Kingdom",
     "flagEmoji": "🇬🇧",
-    "gl": "GB",
+    "code": "GB",
     "hl": [
       "en-GB"
     ],
@@ -25,7 +25,7 @@
     "displayName": "India",
     "nativeName": "भारत",
     "flagEmoji": "🇮🇳",
-    "gl": "IN",
+    "code": "IN",
     "hl": [
       "en-IN",
       "hi"
@@ -37,7 +37,7 @@
     "displayName": "Japan",
     "nativeName": "日本",
     "flagEmoji": "🇯🇵",
-    "gl": "JP",
+    "code": "JP",
     "hl": [
       "ja"
     ],
@@ -48,7 +48,7 @@
     "displayName": "Australia",
     "nativeName": "Australia",
     "flagEmoji": "🇦🇺",
-    "gl": "AU",
+    "code": "AU",
     "hl": [
       "en-AU"
     ],
@@ -59,7 +59,7 @@
     "displayName": "Canada",
     "nativeName": "Canada",
     "flagEmoji": "🇨🇦",
-    "gl": "CA",
+    "code": "CA",
     "hl": [
       "en-CA",
       "fr-CA"
@@ -71,7 +71,7 @@
     "displayName": "Germany",
     "nativeName": "Deutschland",
     "flagEmoji": "🇩🇪",
-    "gl": "DE",
+    "code": "DE",
     "hl": [
       "de"
     ],
@@ -82,7 +82,7 @@
     "displayName": "France",
     "nativeName": "France",
     "flagEmoji": "🇫🇷",
-    "gl": "FR",
+    "code": "FR",
     "hl": [
       "fr"
     ],
@@ -93,7 +93,7 @@
     "displayName": "Brazil",
     "nativeName": "Brasil",
     "flagEmoji": "🇧🇷",
-    "gl": "BR",
+    "code": "BR",
     "hl": [
       "pt-BR"
     ],
@@ -104,7 +104,7 @@
     "displayName": "South Korea",
     "nativeName": "대한민국",
     "flagEmoji": "🇰🇷",
-    "gl": "KR",
+    "code": "KR",
     "hl": [
       "ko"
     ],
@@ -115,7 +115,7 @@
     "displayName": "Singapore",
     "nativeName": "Singapore",
     "flagEmoji": "🇸🇬",
-    "gl": "SG",
+    "code": "SG",
     "hl": [
       "en-SG",
       "zh-CN"
@@ -127,7 +127,7 @@
     "displayName": "Qatar",
     "nativeName": "قطر",
     "flagEmoji": "🇶🇦",
-    "gl": "QA",
+    "code": "QA",
     "hl": [
       "ar",
       "en"
@@ -139,7 +139,7 @@
     "displayName": "United Arab Emirates",
     "nativeName": "الإمارات العربية المتحدة",
     "flagEmoji": "🇦🇪",
-    "gl": "AE",
+    "code": "AE",
     "hl": [
       "ar",
       "en"
@@ -151,7 +151,7 @@
     "displayName": "Italy",
     "nativeName": "Italia",
     "flagEmoji": "🇮🇹",
-    "gl": "IT",
+    "code": "IT",
     "hl": [
       "it"
     ],
@@ -162,7 +162,7 @@
     "displayName": "Spain",
     "nativeName": "España",
     "flagEmoji": "🇪🇸",
-    "gl": "ES",
+    "code": "ES",
     "hl": [
       "es"
     ],
@@ -173,7 +173,7 @@
     "displayName": "South Africa",
     "nativeName": "South Africa",
     "flagEmoji": "🇿🇦",
-    "gl": "ZA",
+    "code": "ZA",
     "hl": [
       "en-ZA",
       "af",
@@ -186,7 +186,7 @@
     "displayName": "Nigeria",
     "nativeName": "Nigeria",
     "flagEmoji": "🇳🇬",
-    "gl": "NG",
+    "code": "NG",
     "hl": [
       "en-NG",
       "yo",
@@ -199,7 +199,7 @@
     "displayName": "Kenya",
     "nativeName": "Kenya",
     "flagEmoji": "🇰🇪",
-    "gl": "KE",
+    "code": "KE",
     "hl": [
       "en-KE",
       "sw"
@@ -211,7 +211,7 @@
     "displayName": "Egypt",
     "nativeName": "مصر",
     "flagEmoji": "🇪🇬",
-    "gl": "EG",
+    "code": "EG",
     "hl": [
       "ar",
       "en"
@@ -223,7 +223,7 @@
     "displayName": "Mexico",
     "nativeName": "México",
     "flagEmoji": "🇲🇽",
-    "gl": "MX",
+    "code": "MX",
     "hl": [
       "es-MX"
     ],
@@ -234,7 +234,7 @@
     "displayName": "Argentina",
     "nativeName": "Argentina",
     "flagEmoji": "🇦🇷",
-    "gl": "AR",
+    "code": "AR",
     "hl": [
       "es-AR"
     ],
@@ -245,7 +245,7 @@
     "displayName": "Sweden",
     "nativeName": "Sverige",
     "flagEmoji": "🇸🇪",
-    "gl": "SE",
+    "code": "SE",
     "hl": [
       "sv",
       "en"
@@ -257,7 +257,7 @@
     "displayName": "Netherlands",
     "nativeName": "Nederland",
     "flagEmoji": "🇳🇱",
-    "gl": "NL",
+    "code": "NL",
     "hl": [
       "nl",
       "en"
@@ -269,7 +269,7 @@
     "displayName": "Philippines",
     "nativeName": "Pilipinas",
     "flagEmoji": "🇵🇭",
-    "gl": "PH",
+    "code": "PH",
     "hl": [
       "en-PH",
       "tl"
@@ -281,7 +281,7 @@
     "displayName": "Indonesia",
     "nativeName": "Indonesia",
     "flagEmoji": "🇮🇩",
-    "gl": "ID",
+    "code": "ID",
     "hl": [
       "id",
       "en"
