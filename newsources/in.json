@@ -17,7 +17,7 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://www.livemint.com/lm-img/img/static/logo-mint2.svg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mint_(newspaper)_logo.svg/1024px-Mint_(newspaper)_logo.svg.png",
       "notes": "Business-focused daily (print + digital).",
       "type": "news_organization"
     },
@@ -37,7 +37,7 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/34d24be847216e8b8f376b7720b9463eec435e88/newsources/in/india_today/indiatoday-01.svg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/India_Today_logo.png",
       "notes": "Major news magazine and network with broad coverage.",
       "type": "news_organization"
     },
@@ -79,7 +79,7 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://commons.wikimedia.org/wiki/File:NDTV_logo.svg",
+      "logoUrl": "https://banner2.cleanpng.com/20180816/tl/e2475dabcca55e9afadb65f88c9ca3f5.webp",
       "notes": "TV + digital news network; has a fact-check section.",
       "type": "broadcast_media"
     },
@@ -100,7 +100,7 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://indianexpress.com/wp-content/themes/indianexpress/images/indian-express-logo-n.svg",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Indian_Express_logo.svg/808px-The_Indian_Express_logo.svg.png",
       "notes": "Well-known national newspaper with in-depth reporting.",
       "type": "news_organization"
     },
