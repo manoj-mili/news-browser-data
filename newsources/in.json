@@ -5,7 +5,7 @@
       "id": "mint",
       "name": "Mint",
       "homepageUrl": "https://www.livemint.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -25,7 +25,7 @@
       "id": "india_today",
       "name": "India Today",
       "homepageUrl": "https://www.indiatoday.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -45,7 +45,7 @@
       "id": "hindustan_times",
       "name": "Hindustan Times",
       "homepageUrl": "https://www.hindustantimes.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -66,7 +66,7 @@
       "id": "ndtv",
       "name": "NDTV",
       "homepageUrl": "https://www.ndtv.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -87,7 +87,7 @@
       "id": "indian_express",
       "name": "The Indian Express",
       "homepageUrl": "https://indianexpress.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -108,7 +108,7 @@
       "id": "times_of_india",
       "name": "Times of India",
       "homepageUrl": "https://timesofindia.indiatimes.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -128,7 +128,7 @@
       "id": "business_standard",
       "name": "Business Standard",
       "homepageUrl": "https://www.business-standard.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -148,7 +148,7 @@
       "id": "firstpost",
       "name": "Firstpost",
       "homepageUrl": "https://www.firstpost.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -168,7 +168,7 @@
       "id": "the_hindu",
       "name": "The Hindu",
       "homepageUrl": "https://www.thehindu.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -189,7 +189,7 @@
       "id": "the_hans_india",
       "name": "The Hans India",
       "homepageUrl": "https://www.thehansindia.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -208,7 +208,7 @@
       "id": "scienceindiamag",
       "name": "ScienceIndiaMag",
       "homepageUrl": "https://scienceindiamag.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -227,7 +227,7 @@
       "id": "herzindagi",
       "name": "HerZindagi",
       "homepageUrl": "https://www.herzindagi.com/logo.svg?v1",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -248,7 +248,7 @@
       "id": "the_quint",
       "name": "The Quint",
       "homepageUrl": "https://www.thequint.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -268,7 +268,7 @@
       "id": "yourstory",
       "name": "YourStory",
       "homepageUrl": "https://yourstory.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -287,7 +287,7 @@
       "id": "scroll_in",
       "name": "Scroll.in",
       "homepageUrl": "https://scroll.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -308,7 +308,7 @@
       "id": "the_wire",
       "name": "The Wire",
       "homepageUrl": "https://thewire.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -328,7 +328,7 @@
       "id": "down_to_earth",
       "name": "Down To Earth",
       "homepageUrl": "https://www.downtoearth.org.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -348,7 +348,7 @@
       "id": "the_better_india",
       "name": "The Better India",
       "homepageUrl": "https://www.thebetterindia.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -367,7 +367,7 @@
       "id": "femina_india",
       "name": "Femina India",
       "homepageUrl": "https://www.femina.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -386,7 +386,7 @@
       "id": "gq_india",
       "name": "GQ India",
       "homepageUrl": "https://www.gqindia.com",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -405,7 +405,7 @@
       "id": "architectural_digest_india",
       "name": "Architectural Digest India",
       "homepageUrl": "https://www.architecturaldigest.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -425,7 +425,7 @@
       "id": "alt_news",
       "name": "Alt News",
       "homepageUrl": "https://www.altnews.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -444,7 +444,7 @@
       "id": "boom_live",
       "name": "BOOM Live",
       "homepageUrl": "https://www.boomlive.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -462,7 +462,7 @@
       "id": "factchecker_in",
       "name": "FactChecker.in",
       "homepageUrl": "https://www.factchecker.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -480,7 +480,7 @@
       "id": "factcheck_india",
       "name": "FactCheck India",
       "homepageUrl": "https://factcheckindia.co.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
@@ -498,7 +498,7 @@
       "id": "pib_fact_check",
       "name": "PIB Fact Check",
       "homepageUrl": "https://factcheck.pib.gov.in",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en",
@@ -517,7 +517,7 @@
       "id": "webqoof_thequint",
       "name": "WebQoof (The Quint)",
       "homepageUrl": "https://www.thequint.com/topic/webqoof",
-      "rssUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
+      "rssFeedsUrl": "https://raw.githubusercontent.com/manoj-mili/news-browser-data/main/rss/in.json",
       "originCountry": "India",
       "languages": [
         "en"
