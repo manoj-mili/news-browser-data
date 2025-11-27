@@ -17,7 +17,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mint_(newspaper)_logo.svg/1024px-Mint_(newspaper)_logo.svg.png",
+      "logoUrl": {
+        "light": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mint_(newspaper)_logo.svg/1024px-Mint_(newspaper)_logo.svg.png",
+        "dark": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mint_(newspaper)_logo.svg/1024px-Mint_(newspaper)_logo.svg.png"
+      },
       "notes": "Business-focused daily (print + digital).",
       "type": "news_organization"
     },
@@ -37,7 +40,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/India_Today_logo.png",
+      "logoUrl": {
+        "light": "https://upload.wikimedia.org/wikipedia/commons/a/ab/India_Today_logo.png",
+        "dark": "https://upload.wikimedia.org/wikipedia/commons/a/ab/India_Today_logo.png"
+      },
       "notes": "Major news magazine and network with broad coverage.",
       "type": "news_organization"
     },
@@ -58,7 +64,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://www.hindustantimes.com/static-content/1y/ht/ht-logo2.webp",
+      "logoUrl": {
+        "light": "https://www.hindustantimes.com/static-content/1y/ht/ht-logo2.webp",
+        "dark": "https://www.hindustantimes.com/static-content/1y/ht/ht-logo2.webp"
+      },
       "notes": "Large national daily with multiple sections.",
       "type": "news_organization"
     },
@@ -79,7 +88,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://banner2.cleanpng.com/20180816/tl/e2475dabcca55e9afadb65f88c9ca3f5.webp",
+      "logoUrl": {
+        "light": "https://banner2.cleanpng.com/20180816/tl/e2475dabcca55e9afadb65f88c9ca3f5.webp",
+        "dark": "https://banner2.cleanpng.com/20180816/tl/e2475dabcca55e9afadb65f88c9ca3f5.webp"
+      },
       "notes": "TV + digital news network; has a fact-check section.",
       "type": "broadcast_media"
     },
@@ -100,7 +112,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Indian_Express_logo.svg/808px-The_Indian_Express_logo.svg.png",
+      "logoUrl": {
+        "light": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Indian_Express_logo.svg/808px-The_Indian_Express_logo.svg.png",
+        "dark": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Indian_Express_logo.svg/808px-The_Indian_Express_logo.svg.png"
+      },
       "notes": "Well-known national newspaper with in-depth reporting.",
       "type": "news_organization"
     },
@@ -120,7 +135,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://static.toiimg.com/photo/111986287.cms",
+      "logoUrl": {
+        "light": "https://static.toiimg.com/photo/111986287.cms",
+        "dark": "https://static.toiimg.com/photo/111986287.cms"
+      },
       "notes": "India's largest English-language daily by circulation.",
       "type": "news_organization"
     },
@@ -140,7 +158,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard.png",
+      "logoUrl": {
+        "light": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard.png",
+        "dark": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard.png"
+      },
       "notes": "Well-known business and financial news outlet.",
       "type": "news_organization"
     },
@@ -160,7 +181,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://www.firstpost.com/dlxczavtqcctuei/news18/static/images/fp/firstpost-desktop.png",
+      "logoUrl": {
+        "light": "https://www.firstpost.com/dlxczavtqcctuei/news18/static/images/fp/firstpost-desktop.png",
+        "dark": "https://www.firstpost.com/dlxczavtqcctuei/news18/static/images/fp/firstpost-desktop.png"
+      },
       "notes": "Online news portal part of the Network18 group.",
       "type": "digital_only_publication"
     },
@@ -181,7 +205,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg",
+      "logoUrl": {
+        "light": "https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg",
+        "dark": "https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg"
+      },
       "notes": "Respected national daily with strong editorial reputation.",
       "type": "news_organization"
     },
@@ -200,7 +227,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://www.thehansindia.com/images/logo1.png?v=2",
+      "logoUrl": {
+        "light": "https://www.thehansindia.com/images/logo1.png?v=2",
+        "dark": "https://www.thehansindia.com/images/logo1.png?v=2"
+      },
       "notes": "English-language regional/state news coverage.",
       "type": "news_organization"
     },
@@ -219,7 +249,10 @@
       ],
       "verified": false,
       "lastVerifiedAt": null,
-      "logoUrl": "https://scienceindiamag.in/wp-content/uploads/2021/08/logo.png",
+      "logoUrl": {
+        "light": "https://scienceindiamag.in/wp-content/uploads/2021/08/logo.png",
+        "dark": "https://scienceindiamag.in/wp-content/uploads/2021/08/logo.png"
+      },
       "notes": "Popular-science coverage, Indian perspective.",
       "type": "magazine"
     },
@@ -239,7 +272,10 @@
       ],
       "verified": false,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Women-focused lifestyle and wellness content across languages.",
       "type": "digital_only_publication"
     },
@@ -259,7 +295,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Digital news outlet with WebQoof fact-checking vertical.",
       "type": "digital_only_publication"
     },
@@ -278,7 +317,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "https://images.yourstory.com/cs/images/homepage/headerV3_YS.svg",
+      "logoUrl": {
+        "light": "https://images.yourstory.com/cs/images/homepage/headerV3_YS.svg",
+        "dark": "https://images.yourstory.com/cs/images/homepage/headerV3_YS.svg"
+      },
       "notes": "Startup and entrepreneurship focused digital media.",
       "type": "digital_only_publication"
     },
@@ -299,7 +341,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Long-form reporting and cultural coverage.",
       "type": "digital_only_publication"
     },
@@ -319,7 +364,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Investigative reporting and analysis.",
       "type": "digital_only_publication"
     },
@@ -339,7 +387,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Focuses on environment, sustainable development, health and science.",
       "type": "ngo_publication"
     },
@@ -358,7 +409,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Focuses on positive-impact stories across India.",
       "type": "digital_only_publication"
     },
@@ -377,7 +431,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Popular women's lifestyle and fashion magazine.",
       "type": "magazine"
     },
@@ -396,7 +453,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Men's lifestyle and culture magazine.",
       "type": "magazine"
     },
@@ -415,7 +475,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Design and culture magazine.",
       "type": "magazine"
     },
@@ -434,7 +497,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Prominent independent fact-checking organization.",
       "type": "fact_checker"
     },
@@ -452,7 +518,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Fact-checking and explainers platform.",
       "type": "fact_checker"
     },
@@ -470,7 +539,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "India's dedicated fact-checking initiative.",
       "type": "fact_checker"
     },
@@ -488,7 +560,10 @@
       ],
       "verified": false,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Independent fact-checking resource.",
       "type": "fact_checker"
     },
@@ -507,7 +582,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "Official government fact-checking portal.",
       "type": "government_publication"
     },
@@ -525,7 +603,10 @@
       ],
       "verified": true,
       "lastVerifiedAt": null,
-      "logoUrl": "",
+      "logoUrl": {
+        "light": "",
+        "dark": ""
+      },
       "notes": "The Quint's fact-checking vertical (WebQoof).",
       "type": "fact_checker"
     }
