@@ -237,14 +237,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_infographic",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/rssfeed.xml",
-                "title": "Infographic",
-                "isActive": true
-            },
-            {
                 "id": "ht_sports",
                 "category": "sports",
                 "language": "en",
@@ -542,7 +534,7 @@
             },
             {
                 "id": "ht_knowledge",
-                "category": "top",
+                "category": "education",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/knowledge/rssfeed.xml",
                 "title": "Knowledge",
@@ -594,14 +586,6 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/product-hub/rssfeed.xml",
                 "title": "Product Hub",
-                "isActive": true
-            },
-            {
-                "id": "ht_in_focus",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/in-focus/rssfeed.xml",
-                "title": "In Focus",
                 "isActive": true
             },
             {
