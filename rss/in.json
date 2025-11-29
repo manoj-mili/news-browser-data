@@ -16,11 +16,11 @@
                 "language": "en",
                 "url": "https://feeds.feedburner.com/ndtvnews-latest",
                 "title": "Latest Stories",
-                "isActive": true
+                "isActive": false
             },
             {
                 "id": "ndtv_trending_stories",
-                "category": "top",
+                "category": "trending",
                 "language": "en",
                 "url": "https://feeds.feedburner.com/ndtvnews-trending-news",
                 "title": "Trending Stories",
@@ -333,16 +333,8 @@
                 "isActive": true
             },
             {
-                "id": "ht_elections_2025",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/elections/rssfeed.xml",
-                "title": "Elections 2025",
-                "isActive": true
-            },
-            {
                 "id": "ht_trending",
-                "category": "top",
+                "category": "trending",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml",
                 "title": "Trending",
@@ -378,15 +370,7 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/videos/rssfeed.xml",
                 "title": "Videos",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/rssfeed.xml",
-                "title": "Web Stories",
-                "isActive": true
+                "isActive": false
             },
             {
                 "id": "ht_photos",
@@ -394,11 +378,11 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/photos/rssfeed.xml",
                 "title": "Photos",
-                "isActive": true
+                "isActive": false
             },
             {
                 "id": "ht_htcity",
-                "category": "entertainment",
+                "category": "local_news",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/htcity/rssfeed.xml",
                 "title": "Htcity",
@@ -429,22 +413,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_exam_results",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/education/exam-results/rssfeed.xml",
-                "title": "Exam Results",
-                "isActive": true
-            },
-            {
-                "id": "ht_htcity_high_spirits",
-                "category": "lifestyle",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-high-spirits/rssfeed.xml",
-                "title": "Htcity High Spirits",
-                "isActive": true
-            },
-            {
                 "id": "ht_real_estate",
                 "category": "business",
                 "language": "en",
@@ -466,14 +434,6 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml",
                 "title": "Bengaluru",
-                "isActive": true
-            },
-            {
-                "id": "ht_htcity_showstoppers",
-                "category": "entertainment",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-showstoppers/rssfeed.xml",
-                "title": "Htcity Showstoppers",
                 "isActive": true
             },
             {
@@ -525,14 +485,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_telugu_cinema",
-                "category": "entertainment",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/entertainment/telugu-cinema/rssfeed.xml",
-                "title": "Telugu Cinema",
-                "isActive": true
-            },
-            {
                 "id": "ht_opinion",
                 "category": "opinions",
                 "language": "en",
@@ -573,35 +525,11 @@
                 "isActive": true
             },
             {
-                "id": "ht_brand_stories",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/brand-stories/rssfeed.xml",
-                "title": "Brand Stories",
-                "isActive": true
-            },
-            {
                 "id": "ht_education_news_2",
                 "category": "education",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/education/news/rssfeed.xml",
                 "title": "Education News",
-                "isActive": true
-            },
-            {
-                "id": "ht_himachal_pradesh_elections",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/elections/himachal-pradesh/rssfeed.xml",
-                "title": "Himachal Pradesh",
-                "isActive": true
-            },
-            {
-                "id": "ht_gujarat_elections",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/elections/gujarat/rssfeed.xml",
-                "title": "Gujarat",
                 "isActive": true
             },
             {
@@ -637,14 +565,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_htcity_delhi_junction",
-                "category": "local_news",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-delhi-junction/rssfeed.xml",
-                "title": "Htcity Delhi Junction",
-                "isActive": true
-            },
-            {
                 "id": "ht_htcity_foodies",
                 "category": "food",
                 "language": "en",
@@ -666,38 +586,6 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/htcity/wellness/rssfeed.xml",
                 "title": "Wellness",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_companies",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/companies/rssfeed.xml",
-                "title": "Companies",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_economy",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/economy/rssfeed.xml",
-                "title": "Economy",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_industry",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/industry/rssfeed.xml",
-                "title": "Industry",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_money",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/money/rssfeed.xml",
-                "title": "Money",
                 "isActive": true
             },
             {
@@ -741,54 +629,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_lok_sabha_elections_2024",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha/rssfeed.xml",
-                "title": "Lok Sabha Elections 2024",
-                "isActive": true
-            },
-            {
-                "id": "ht_plain_facts",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/plain-facts/rssfeed.xml",
-                "title": "Plain Facts",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_policy",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/policy/rssfeed.xml",
-                "title": "Policy",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_technology",
-                "category": "technology",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/technology/rssfeed.xml",
-                "title": "Technology",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_startups",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/startups/rssfeed.xml",
-                "title": "Startups",
-                "isActive": true
-            },
-            {
-                "id": "ht_infographic_markets",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/infographic/markets/rssfeed.xml",
-                "title": "Markets",
-                "isActive": true
-            },
-            {
                 "id": "ht_she_slays",
                 "category": "lifestyle",
                 "language": "en",
@@ -805,203 +645,11 @@
                 "isActive": true
             },
             {
-                "id": "ht_education_system_in_india",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/education-in-india/rssfeed.xml",
-                "title": "Education System In India",
-                "isActive": true
-            },
-            {
-                "id": "ht_wwe",
-                "category": "sports",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/sports/wwe-news/rssfeed.xml",
-                "title": "Wwe",
-                "isActive": true
-            },
-            {
-                "id": "ht_study_abroad",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/education/study-abroad/rssfeed.xml",
-                "title": "Study Abroad",
-                "isActive": true
-            },
-            {
-                "id": "ht_genesis",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/genesis/rssfeed.xml",
-                "title": "Genesis",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories_trending",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/trending/rssfeed.xml",
-                "title": "Trending",
-                "isActive": true
-            },
-            {
-                "id": "ht_panchang_shubh_muhurat",
-                "category": "astrology",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/astrology/panchang-shubh-muhurat/rssfeed.xml",
-                "title": "Panchang Shubh Muhurat",
-                "isActive": true
-            },
-            {
-                "id": "ht_education_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/education/rssfeed.xml",
-                "title": "Education Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories_education",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/education/rssfeed.xml",
-                "title": "Education",
-                "isActive": true
-            },
-            {
-                "id": "ht_cricket_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/cricket/rssfeed.xml",
-                "title": "Cricket Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_ipl_2023",
-                "category": "sports",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/cricket/ipl-2023/rssfeed.xml",
-                "title": "Ipl 2023",
-                "isActive": true
-            },
-            {
-                "id": "ht_education_features",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/education/features/rssfeed.xml",
-                "title": "Features",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories_sports",
-                "category": "sports",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/sports/rssfeed.xml",
-                "title": "Sports",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories_lifestyle",
-                "category": "lifestyle",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/lifestyle/rssfeed.xml",
-                "title": "Lifestyle",
-                "isActive": true
-            },
-            {
-                "id": "ht_web_stories_entertainment",
-                "category": "entertainment",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/web-stories/entertainment/rssfeed.xml",
-                "title": "Entertainment",
-                "isActive": true
-            },
-            {
-                "id": "ht_htls_2021",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/htls/ht-leadership-summit-2021/rssfeed.xml",
-                "title": "Ht Leadership Summit 2021",
-                "isActive": true
-            },
-            {
-                "id": "ht_shop_now_fashion",
-                "category": "lifestyle",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/shop-now/fashion/rssfeed.xml",
-                "title": "Fashion",
-                "isActive": true
-            },
-            {
-                "id": "ht_astrology_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/astrology/rssfeed.xml",
-                "title": "Astrology Videos",
-                "isActive": true
-            },
-            {
-                "id": "ht_shop_now_electronics",
-                "category": "technology",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/shop-now/electronics/rssfeed.xml",
-                "title": "Electronics",
-                "isActive": true
-            },
-            {
-                "id": "ht_tokyo_olympics_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/tokyo-olympics/rssfeed.xml",
-                "title": "Tokyo Olympics Photos",
-                "isActive": true
-            },
-            {
                 "id": "ht_climate_change",
                 "category": "environment",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/climate-change/rssfeed.xml",
                 "title": "Climate Change",
-                "isActive": true
-            },
-            {
-                "id": "ht_tokyo_olympics_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/tokyo-olympics/rssfeed.xml",
-                "title": "Tokyo Olympics Videos",
-                "isActive": true
-            },
-            {
-                "id": "ht_governance",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/governance/rssfeed.xml",
-                "title": "Governance",
-                "isActive": true
-            },
-            {
-                "id": "ht_education_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/education/rssfeed.xml",
-                "title": "Education",
-                "isActive": true
-            },
-            {
-                "id": "ht_gender_equality",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/gender-equality/rssfeed.xml",
-                "title": "Gender Equality",
-                "isActive": true
-            },
-            {
-                "id": "ht_economic_policy",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/ht-insight/economy/rssfeed.xml",
-                "title": "Economic Policy",
                 "isActive": true
             },
             {
@@ -1013,54 +661,6 @@
                 "isActive": true
             },
             {
-                "id": "ht_worldview_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/worldview/rssfeed.xml",
-                "title": "Worldview Videos",
-                "isActive": true
-            },
-            {
-                "id": "ht_brunch_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/brunch/rssfeed.xml",
-                "title": "Brunch Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_htls_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/htls/rssfeed.xml",
-                "title": "Htls Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_singapore_summit_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/singapore-summit/rssfeed.xml",
-                "title": "Singapore Summit Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_coronavirus_crisis",
-                "category": "health",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/coronavirus-crisis/rssfeed.xml",
-                "title": "Coronavirus Crisis",
-                "isActive": true
-            },
-            {
-                "id": "ht_ht_chronicles_quiz",
-                "category": "education",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/ht-school/chronicles/rssfeed.xml",
-                "title": "Ht Chronicles Quiz",
-                "isActive": true
-            },
-            {
                 "id": "ht_relationships",
                 "category": "lifestyle",
                 "language": "en",
@@ -1069,115 +669,11 @@
                 "isActive": true
             },
             {
-                "id": "ht_real_estate_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/real-estate/rssfeed.xml",
-                "title": "Ht Real Estate Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_ht_school_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/ht-school/rssfeed.xml",
-                "title": "Ht School",
-                "isActive": true
-            },
-            {
-                "id": "ht_opinion_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/opinion/rssfeed.xml",
-                "title": "Opinion Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_ht_weekend_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/ht-weekend/rssfeed.xml",
-                "title": "Ht Weekend Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_arts_and_culture_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/art-culture/rssfeed.xml",
-                "title": "Arts And Culture Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_htls_2020",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/htls/hindustan-times-leadership-summit-2020/rssfeed.xml",
-                "title": "Hindustan Times Leadership Summit 2020",
-                "isActive": true
-            },
-            {
                 "id": "ht_art_and_culture",
                 "category": "culture",
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml",
                 "title": "Art And Culture",
-                "isActive": true
-            },
-            {
-                "id": "ht_news_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/news/rssfeed.xml",
-                "title": "News Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_lifestyle_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/lifestyle/rssfeed.xml",
-                "title": "Lifestyle Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_entertainment_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/photos/entertainment/rssfeed.xml",
-                "title": "Entertainment Photos",
-                "isActive": true
-            },
-            {
-                "id": "ht_htls_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/htls/rssfeed.xml",
-                "title": "Htls Videos",
-                "isActive": true
-            },
-            {
-                "id": "ht_sports_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/sports/rssfeed.xml",
-                "title": "Sports",
-                "isActive": true
-            },
-            {
-                "id": "ht_lifestyle_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/lifestyle/rssfeed.xml",
-                "title": "Lifestyle",
-                "isActive": true
-            },
-            {
-                "id": "ht_entertainment_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/videos/entertainment/rssfeed.xml",
-                "title": "Entertainment Videos",
                 "isActive": true
             },
             {
@@ -1202,14 +698,6 @@
                 "language": "en",
                 "url": "https://www.hindustantimes.com/feeds/rss/sports/badminton/rssfeed.xml",
                 "title": "Badminton News",
-                "isActive": true
-            },
-            {
-                "id": "ht_paris_olympics_2024",
-                "category": "sports",
-                "language": "en",
-                "url": "https://www.hindustantimes.com/feeds/rss/sports/olympics/rssfeed.xml",
-                "title": "Paris Olympics 2024",
                 "isActive": true
             },
             {
@@ -1256,58 +744,10 @@
             },
             {
                 "id": "it_cover_story",
-                "category": "top",
+                "category": "opinions",
                 "language": "en",
                 "url": "https://www.indiatoday.in/rss/1206509",
                 "title": "Cover Story",
-                "isActive": true
-            },
-            {
-                "id": "it_glass_house",
-                "category": "politics",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206610",
-                "title": "Glass House",
-                "isActive": true
-            },
-            {
-                "id": "it_eyecatchers",
-                "category": "entertainment",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206494",
-                "title": "Eyecatchers",
-                "isActive": true
-            },
-            {
-                "id": "it_glossary",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206613",
-                "title": "Glossary",
-                "isActive": true
-            },
-            {
-                "id": "it_top_stories",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206584",
-                "title": "Top Stories",
-                "isActive": true
-            },
-            {
-                "id": "it_states",
-                "category": "local_news",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206500",
-                "title": "States",
-                "isActive": true
-            },
-            {
-                "id": "it_economy",
-                "category": "business",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206513",
-                "title": "Economy",
                 "isActive": true
             },
             {
@@ -1327,14 +767,6 @@
                 "isActive": true
             },
             {
-                "id": "it_offtrack",
-                "category": "top",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss/1206503",
-                "title": "Offtrack",
-                "isActive": true
-            },
-            {
                 "id": "it_society_and_the_arts",
                 "category": "culture",
                 "language": "en",
@@ -1348,22 +780,6 @@
                 "language": "en",
                 "url": "https://www.indiatoday.in/rss/1206506",
                 "title": "Your Week",
-                "isActive": true
-            },
-            {
-                "id": "it_photos",
-                "category": "photos",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss-gallery",
-                "title": "Photos",
-                "isActive": true
-            },
-            {
-                "id": "it_videos",
-                "category": "videos",
-                "language": "en",
-                "url": "https://www.indiatoday.in/rss-video",
-                "title": "Videos",
                 "isActive": true
             }
         ]
