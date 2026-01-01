@@ -1,292 +1,295 @@
-[
-  {
-    "displayName": "United States",
-    "nativeName": "United States",
-    "flagEmoji": "🇺🇸",
-    "code": "us",
-    "hl": [
-      "en"
-    ],
-    "region": "North America",
-    "isRecommended": true
-  },
-  {
-    "displayName": "United Kingdom",
-    "nativeName": "United Kingdom",
-    "flagEmoji": "🇬🇧",
-    "code": "gb",
-    "hl": [
-      "en-GB"
-    ],
-    "region": "Europe",
-    "isRecommended": true
-  },
-  {
-    "displayName": "India",
-    "nativeName": "भारत",
-    "flagEmoji": "🇮🇳",
-    "code": "in",
-    "hl": [
-      "en-IN",
-      "hi"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Japan",
-    "nativeName": "日本",
-    "flagEmoji": "🇯🇵",
-    "code": "jp",
-    "hl": [
-      "ja"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Australia",
-    "nativeName": "Australia",
-    "flagEmoji": "🇦🇺",
-    "code": "au",
-    "hl": [
-      "en-AU"
-    ],
-    "region": "Oceania",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Canada",
-    "nativeName": "Canada",
-    "flagEmoji": "🇨🇦",
-    "code": "ca",
-    "hl": [
-      "en-CA",
-      "fr-CA"
-    ],
-    "region": "North America",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Germany",
-    "nativeName": "Deutschland",
-    "flagEmoji": "🇩🇪",
-    "code": "de",
-    "hl": [
-      "de"
-    ],
-    "region": "Europe",
-    "isRecommended": true
-  },
-  {
-    "displayName": "France",
-    "nativeName": "France",
-    "flagEmoji": "🇫🇷",
-    "code": "fr",
-    "hl": [
-      "fr"
-    ],
-    "region": "Europe",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Brazil",
-    "nativeName": "Brasil",
-    "flagEmoji": "🇧🇷",
-    "code": "br",
-    "hl": [
-      "pt-BR"
-    ],
-    "region": "South America",
-    "isRecommended": true
-  },
-  {
-    "displayName": "South Korea",
-    "nativeName": "대한민국",
-    "flagEmoji": "🇰🇷",
-    "code": "kr",
-    "hl": [
-      "ko"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Singapore",
-    "nativeName": "Singapore",
-    "flagEmoji": "🇸🇬",
-    "code": "sg",
-    "hl": [
-      "en-SG",
-      "zh-CN"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Qatar",
-    "nativeName": "قطر",
-    "flagEmoji": "🇶🇦",
-    "code": "qa",
-    "hl": [
-      "ar",
-      "en"
-    ],
-    "region": "Middle East",
-    "isRecommended": true
-  },
-  {
-    "displayName": "United Arab Emirates",
-    "nativeName": "الإمارات العربية المتحدة",
-    "flagEmoji": "🇦🇪",
-    "code": "ae",
-    "hl": [
-      "ar",
-      "en"
-    ],
-    "region": "Middle East",
-    "isRecommended": false
-  },
-  {
-    "displayName": "Italy",
-    "nativeName": "Italia",
-    "flagEmoji": "🇮🇹",
-    "code": "it",
-    "hl": [
-      "it"
-    ],
-    "region": "Europe",
-    "isRecommended": false
-  },
-  {
-    "displayName": "Spain",
-    "nativeName": "España",
-    "flagEmoji": "🇪🇸",
-    "code": "es",
-    "hl": [
-      "es"
-    ],
-    "region": "Europe",
-    "isRecommended": false
-  },
-  {
-    "displayName": "South Africa",
-    "nativeName": "South Africa",
-    "flagEmoji": "🇿🇦",
-    "code": "za",
-    "hl": [
-      "en-ZA",
-      "af",
-      "zu"
-    ],
-    "region": "Africa",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Nigeria",
-    "nativeName": "Nigeria",
-    "flagEmoji": "🇳🇬",
-    "code": "ng",
-    "hl": [
-      "en-NG",
-      "yo",
-      "ha"
-    ],
-    "region": "Africa",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Kenya",
-    "nativeName": "Kenya",
-    "flagEmoji": "🇰🇪",
-    "code": "ke",
-    "hl": [
-      "en-KE",
-      "sw"
-    ],
-    "region": "Africa",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Egypt",
-    "nativeName": "مصر",
-    "flagEmoji": "🇪🇬",
-    "code": "eg",
-    "hl": [
-      "ar",
-      "en"
-    ],
-    "region": "Middle East & North Africa",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Mexico",
-    "nativeName": "México",
-    "flagEmoji": "🇲🇽",
-    "code": "mx",
-    "hl": [
-      "es-MX"
-    ],
-    "region": "Latin America",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Argentina",
-    "nativeName": "Argentina",
-    "flagEmoji": "🇦🇷",
-    "code": "ar",
-    "hl": [
-      "es-AR"
-    ],
-    "region": "Latin America",
-    "isRecommended": false
-  },
-  {
-    "displayName": "Sweden",
-    "nativeName": "Sverige",
-    "flagEmoji": "🇸🇪",
-    "code": "se",
-    "hl": [
-      "sv",
-      "en"
-    ],
-    "region": "Europe",
-    "isRecommended": false
-  },
-  {
-    "displayName": "Netherlands",
-    "nativeName": "Nederland",
-    "flagEmoji": "🇳🇱",
-    "code": "nl",
-    "hl": [
-      "nl",
-      "en"
-    ],
-    "region": "Europe",
-    "isRecommended": false
-  },
-  {
-    "displayName": "Philippines",
-    "nativeName": "Pilipinas",
-    "flagEmoji": "🇵🇭",
-    "code": "ph",
-    "hl": [
-      "en-PH",
-      "tl"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  },
-  {
-    "displayName": "Indonesia",
-    "nativeName": "Indonesia",
-    "flagEmoji": "🇮🇩",
-    "code": "id",
-    "hl": [
-      "id",
-      "en"
-    ],
-    "region": "Asia",
-    "isRecommended": true
-  }
-]
+{
+  "version": 1,
+  "countries": [
+    {
+      "displayName": "United States",
+      "nativeName": "United States",
+      "flagEmoji": "🇺🇸",
+      "code": "us",
+      "hl": [
+        "en"
+      ],
+      "region": "North America",
+      "isRecommended": true
+    },
+    {
+      "displayName": "United Kingdom",
+      "nativeName": "United Kingdom",
+      "flagEmoji": "🇬🇧",
+      "code": "gb",
+      "hl": [
+        "en-GB"
+      ],
+      "region": "Europe",
+      "isRecommended": true
+    },
+    {
+      "displayName": "India",
+      "nativeName": "भारत",
+      "flagEmoji": "🇮🇳",
+      "code": "in",
+      "hl": [
+        "en-IN",
+        "hi"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Japan",
+      "nativeName": "日本",
+      "flagEmoji": "🇯🇵",
+      "code": "jp",
+      "hl": [
+        "ja"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Australia",
+      "nativeName": "Australia",
+      "flagEmoji": "🇦🇺",
+      "code": "au",
+      "hl": [
+        "en-AU"
+      ],
+      "region": "Oceania",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Canada",
+      "nativeName": "Canada",
+      "flagEmoji": "🇨🇦",
+      "code": "ca",
+      "hl": [
+        "en-CA",
+        "fr-CA"
+      ],
+      "region": "North America",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Germany",
+      "nativeName": "Deutschland",
+      "flagEmoji": "🇩🇪",
+      "code": "de",
+      "hl": [
+        "de"
+      ],
+      "region": "Europe",
+      "isRecommended": true
+    },
+    {
+      "displayName": "France",
+      "nativeName": "France",
+      "flagEmoji": "🇫🇷",
+      "code": "fr",
+      "hl": [
+        "fr"
+      ],
+      "region": "Europe",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Brazil",
+      "nativeName": "Brasil",
+      "flagEmoji": "🇧🇷",
+      "code": "br",
+      "hl": [
+        "pt-BR"
+      ],
+      "region": "South America",
+      "isRecommended": true
+    },
+    {
+      "displayName": "South Korea",
+      "nativeName": "대한민국",
+      "flagEmoji": "🇰🇷",
+      "code": "kr",
+      "hl": [
+        "ko"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Singapore",
+      "nativeName": "Singapore",
+      "flagEmoji": "🇸🇬",
+      "code": "sg",
+      "hl": [
+        "en-SG",
+        "zh-CN"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Qatar",
+      "nativeName": "قطر",
+      "flagEmoji": "🇶🇦",
+      "code": "qa",
+      "hl": [
+        "ar",
+        "en"
+      ],
+      "region": "Middle East",
+      "isRecommended": true
+    },
+    {
+      "displayName": "United Arab Emirates",
+      "nativeName": "الإمارات العربية المتحدة",
+      "flagEmoji": "🇦🇪",
+      "code": "ae",
+      "hl": [
+        "ar",
+        "en"
+      ],
+      "region": "Middle East",
+      "isRecommended": false
+    },
+    {
+      "displayName": "Italy",
+      "nativeName": "Italia",
+      "flagEmoji": "🇮🇹",
+      "code": "it",
+      "hl": [
+        "it"
+      ],
+      "region": "Europe",
+      "isRecommended": false
+    },
+    {
+      "displayName": "Spain",
+      "nativeName": "España",
+      "flagEmoji": "🇪🇸",
+      "code": "es",
+      "hl": [
+        "es"
+      ],
+      "region": "Europe",
+      "isRecommended": false
+    },
+    {
+      "displayName": "South Africa",
+      "nativeName": "South Africa",
+      "flagEmoji": "🇿🇦",
+      "code": "za",
+      "hl": [
+        "en-ZA",
+        "af",
+        "zu"
+      ],
+      "region": "Africa",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Nigeria",
+      "nativeName": "Nigeria",
+      "flagEmoji": "🇳🇬",
+      "code": "ng",
+      "hl": [
+        "en-NG",
+        "yo",
+        "ha"
+      ],
+      "region": "Africa",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Kenya",
+      "nativeName": "Kenya",
+      "flagEmoji": "🇰🇪",
+      "code": "ke",
+      "hl": [
+        "en-KE",
+        "sw"
+      ],
+      "region": "Africa",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Egypt",
+      "nativeName": "مصر",
+      "flagEmoji": "🇪🇬",
+      "code": "eg",
+      "hl": [
+        "ar",
+        "en"
+      ],
+      "region": "Middle East & North Africa",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Mexico",
+      "nativeName": "México",
+      "flagEmoji": "🇲🇽",
+      "code": "mx",
+      "hl": [
+        "es-MX"
+      ],
+      "region": "Latin America",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Argentina",
+      "nativeName": "Argentina",
+      "flagEmoji": "🇦🇷",
+      "code": "ar",
+      "hl": [
+        "es-AR"
+      ],
+      "region": "Latin America",
+      "isRecommended": false
+    },
+    {
+      "displayName": "Sweden",
+      "nativeName": "Sverige",
+      "flagEmoji": "🇸🇪",
+      "code": "se",
+      "hl": [
+        "sv",
+        "en"
+      ],
+      "region": "Europe",
+      "isRecommended": false
+    },
+    {
+      "displayName": "Netherlands",
+      "nativeName": "Nederland",
+      "flagEmoji": "🇳🇱",
+      "code": "nl",
+      "hl": [
+        "nl",
+        "en"
+      ],
+      "region": "Europe",
+      "isRecommended": false
+    },
+    {
+      "displayName": "Philippines",
+      "nativeName": "Pilipinas",
+      "flagEmoji": "🇵🇭",
+      "code": "ph",
+      "hl": [
+        "en-PH",
+        "tl"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    },
+    {
+      "displayName": "Indonesia",
+      "nativeName": "Indonesia",
+      "flagEmoji": "🇮🇩",
+      "code": "id",
+      "hl": [
+        "id",
+        "en"
+      ],
+      "region": "Asia",
+      "isRecommended": true
+    }
+  ]
+}
