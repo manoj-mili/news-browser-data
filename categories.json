@@ -82,42 +82,18 @@
       "hideFromUserSelection": false
     },
     {
-      "id": "culture",
-      "displayName": "Culture",
-      "categoryEmoji": "🎭",
-      "priority": 11,
-      "notes": "Arts, heritage, books, literature, festivals, traditions, cultural commentary.",
-      "hideFromUserSelection": false
-    },
-    {
       "id": "lifestyle",
       "displayName": "Lifestyle",
       "categoryEmoji": "🌟",
-      "priority": 12,
+      "priority": 11,
       "notes": "Fashion, beauty, style, relationships, home, wellness, personal life, trends, magazines.",
-      "hideFromUserSelection": false
-    },
-    {
-      "id": "food",
-      "displayName": "Food",
-      "categoryEmoji": "🍽️",
-      "priority": 13,
-      "notes": "Cuisine, recipes, restaurant reviews, cooking tips, food culture, dining trends.",
-      "hideFromUserSelection": false
-    },
-    {
-      "id": "travel",
-      "displayName": "Travel",
-      "categoryEmoji": "✈️",
-      "priority": 14,
-      "notes": "Destinations, travel guides, tourism insights, travel tips, experiences, hotel reviews.",
       "hideFromUserSelection": false
     },
     {
       "id": "opinions",
       "displayName": "Opinions",
       "categoryEmoji": "🗣️",
-      "priority": 15,
+      "priority": 12,
       "notes": "Editorials, analysis, commentary, columns, perspectives from experts and public voices.",
       "hideFromUserSelection": false
     },
@@ -125,17 +101,9 @@
       "id": "automotive",
       "displayName": "Automotive",
       "categoryEmoji": "🚗",
-      "priority": 16,
+      "priority": 13,
       "notes": "Cars, EVs, auto reviews, transportation policy, auto industry news.",
       "hideFromUserSelection": false
     },
-    {
-      "id": "education",
-      "displayName": "Education",
-      "categoryEmoji": "🎓",
-      "priority": 17,
-      "notes": "Schools, universities, research institutions, scholarships, policy, academic developments.",
-      "hideFromUserSelection": false
-    }
   ]
 }
