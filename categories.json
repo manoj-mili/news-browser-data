@@ -1,109 +1,148 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {
       "id": "top",
-      "displayName": "Top",
-      "categoryEmoji": "📰",
+      "display_name": "Top Stories",
+      "emoji_light": "⭐",
+      "emoji_dark": "⭐",
+      "color_light": "#6200EE", // Deep Indigo
+      "color_dark": "#BB86FC",   // Light Lavender
       "priority": 1,
       "notes": "Represents all categories combined. Used for broad or uncategorized feeds.",
-      "hideFromUserSelection": true
+      "hide_from_user_selection": true
     },
     {
       "id": "politics",
-      "displayName": "Politics",
-      "categoryEmoji": "🏛️",
+      "display_name": "Politics",
+      "emoji_light": "🏛️",
+      "emoji_dark": "🏛️",
+      "color_light": "#1565C0", // Royal Blue
+      "color_dark": "#90CAF9",   // Soft Sky Blue
       "priority": 2,
       "notes": "Government policies, elections, political parties, governance, parliament, legislation, public administration.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "world_affairs",
-      "displayName": "World Affairs",
-      "categoryEmoji": "🌍",
+      "display_name": "World Affairs",
+      "emoji_light": "🗺️",
+      "emoji_dark": "🗺️",
+      "color_light": "#00796B", // Teal Green
+      "color_dark": "#80CBC4",   // Pale Aqua
       "priority": 3,
       "notes": "International relations, geopolitics, diplomacy, war, global conflicts, international organizations, foreign affairs.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "business",
-      "displayName": "Business",
-      "categoryEmoji": "💼",
+      "display_name": "Business",
+      "emoji_light": "📈",
+      "emoji_dark": "📈",
+      "color_light": "#BF360C", // Burnt Orange
+      "color_dark": "#FFAB91",   // Muted Peach
       "priority": 4,
       "notes": "Corporate news, markets, finance, economy, startups, IPOs, trade, industry insights.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "sports",
-      "displayName": "Sports",
-      "categoryEmoji": "🏅",
+      "display_name": "Sports",
+      "emoji_light": "⚽",
+      "emoji_dark": "⚽",
+      "color_light": "#C62828", // Crimson Red
+      "color_dark": "#EF9A9A",   // Pale Rose
       "priority": 5,
       "notes": "Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "entertainment",
-      "displayName": "Entertainment",
-      "categoryEmoji": "🎬",
+      "display_name": "Entertainment",
+      "emoji_light": "🎬",
+      "emoji_dark": "🎬",
+      "color_light": "#AD1457", // Raspberry Pink
+      "color_dark": "#F48FB1",   // Light Bubblegum
       "priority": 6,
       "notes": "Movies, TV, celebrities, streaming, music, pop culture, reviews, entertainment industry.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "technology",
-      "displayName": "Technology",
-      "categoryEmoji": "💻",
+      "display_name": "Technology",
+      "emoji_light": "🤖",
+      "emoji_dark": "🤖",
+      "color_light": "#6A1B9A", // Grape Purple
+      "color_dark": "#CE93D8",   // Soft Lilac
       "priority": 7,
       "notes": "Tech industry, gadgets, AI, cybersecurity, apps, telecom, software, innovation, startups.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "science",
-      "displayName": "Science",
-      "categoryEmoji": "🔬",
+      "display_name": "Science",
+      "emoji_light": "🧪",
+      "emoji_dark": "🧪",
+      "color_light": "#283593", // Navy Indigo
+      "color_dark": "#9FA8DA",   // Cool Periwinkle
       "priority": 8,
       "notes": "Research, space, physics, biology, astronomy, scientific discoveries, academic studies.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "health",
-      "displayName": "Health",
-      "categoryEmoji": "🩺",
+      "display_name": "Health",
+      "emoji_light": "🩺",
+      "emoji_dark": "🩺",
+      "color_light": "#2E7D32", // Forest Green
+      "color_dark": "#A5D6A7",   // Soft Mint
       "priority": 9,
       "notes": "Healthcare, medical research, diseases, wellbeing, mental health, public health policy, fitness science.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "environment",
-      "displayName": "Environment",
-      "categoryEmoji": "🌱",
+      "display_name": "Environment",
+      "emoji_light": "🌱",
+      "emoji_dark": "🌱",
+      "color_light": "#00695C", // Pine Teal
+      "color_dark": "#4DB6AC",   // Dusty Cyan
       "priority": 10,
       "notes": "Climate change, sustainability, pollution, conservation, wildlife, weather impact, natural disasters, ecological policy.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "lifestyle",
-      "displayName": "Lifestyle",
-      "categoryEmoji": "🌟",
+      "display_name": "Lifestyle",
+      "emoji_light": "☕",
+      "emoji_dark": "☕",
+      "color_light": "#F57F17", // Golden Amber
+      "color_dark": "#FFF176",   // Pale Primrose
       "priority": 11,
       "notes": "Fashion, beauty, style, relationships, home, wellness, personal life, trends, magazines.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "opinions",
-      "displayName": "Opinions",
-      "categoryEmoji": "🗣️",
+      "display_name": "Opinions",
+      "emoji_light": "✍️",
+      "emoji_dark": "✍️",
+      "color_light": "#455A64", // Slate Gray
+      "color_dark": "#CFD8DC",   // Light Silver
       "priority": 12,
       "notes": "Editorials, analysis, commentary, columns, perspectives from experts and public voices.",
-      "hideFromUserSelection": false
+      "hide_from_user_selection": false
     },
     {
       "id": "automotive",
-      "displayName": "Automotive",
-      "categoryEmoji": "🚗",
+      "display_name": "Automotive",
+      "emoji_light": "🚘",
+      "emoji_dark": "🚘",
+      "color_light": "#37474F", // Charcoal Gray
+      "color_dark": "#B0BEC5",   // Blue-Gray Mist
       "priority": 13,
       "notes": "Cars, EVs, auto reviews, transportation policy, auto industry news.",
-      "hideFromUserSelection": false
-    },
+      "hide_from_user_selection": false
+    }
   ]
 }
