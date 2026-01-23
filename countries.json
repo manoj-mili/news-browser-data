@@ -9,8 +9,7 @@
       "hl": [
         "en"
       ],
-      "region": "North America",
-      "isRecommended": true
+      "region": "North America"
     },
     {
       "displayName": "United Kingdom",
@@ -20,8 +19,7 @@
       "hl": [
         "en-GB"
       ],
-      "region": "Europe",
-      "isRecommended": true
+      "region": "Europe"
     },
     {
       "displayName": "India",
@@ -32,8 +30,7 @@
         "en-IN",
         "hi"
       ],
-      "region": "Asia",
-      "isRecommended": true
+      "region": "Asia"
     },
     {
       "displayName": "Australia",
@@ -43,8 +40,7 @@
       "hl": [
         "en-AU"
       ],
-      "region": "Oceania",
-      "isRecommended": true
+      "region": "Oceania"
     },
     {
       "displayName": "Canada",
@@ -55,8 +51,7 @@
         "en-CA",
         "fr-CA"
       ],
-      "region": "North America",
-      "isRecommended": true
+      "region": "North America"
     },
     {
       "displayName": "Singapore",
@@ -67,8 +62,7 @@
         "en-SG",
         "zh-CN"
       ],
-      "region": "Asia",
-      "isRecommended": true
+      "region": "Asia"
     },
     {
       "displayName": "Sweden",
@@ -79,8 +73,7 @@
         "sv",
         "en"
       ],
-      "region": "Europe",
-      "isRecommended": false
+      "region": "Europe"
     },
     {
       "displayName": "Netherlands",
@@ -91,8 +84,7 @@
         "nl",
         "en"
       ],
-      "region": "Europe",
-      "isRecommended": false
+      "region": "Europe"
     }
   ]
 }
