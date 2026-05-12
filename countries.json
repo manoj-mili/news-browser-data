@@ -1,90 +1,406 @@
 {
-  "version": 1,
-  "countries": [
-    {
-      "displayName": "United States",
-      "nativeName": "United States",
-      "flagEmoji": "🇺🇸",
-      "code": "us",
-      "hl": [
-        "en"
-      ],
-      "region": "North America"
-    },
-    {
-      "displayName": "United Kingdom",
-      "nativeName": "United Kingdom",
-      "flagEmoji": "🇬🇧",
-      "code": "gb",
-      "hl": [
-        "en-GB"
-      ],
-      "region": "Europe"
-    },
-    {
-      "displayName": "India",
-      "nativeName": "भारत",
-      "flagEmoji": "🇮🇳",
-      "code": "in",
-      "hl": [
-        "en-IN",
-        "hi"
-      ],
-      "region": "Asia"
-    },
-    {
-      "displayName": "Australia",
-      "nativeName": "Australia",
-      "flagEmoji": "🇦🇺",
-      "code": "au",
-      "hl": [
-        "en-AU"
-      ],
-      "region": "Oceania"
-    },
-    {
-      "displayName": "Canada",
-      "nativeName": "Canada",
-      "flagEmoji": "🇨🇦",
-      "code": "ca",
-      "hl": [
-        "en-CA",
-        "fr-CA"
-      ],
-      "region": "North America"
-    },
-    {
-      "displayName": "Singapore",
-      "nativeName": "Singapore",
-      "flagEmoji": "🇸🇬",
-      "code": "sg",
-      "hl": [
-        "en-SG",
-        "zh-CN"
-      ],
-      "region": "Asia"
-    },
-    {
-      "displayName": "Sweden",
-      "nativeName": "Sverige",
-      "flagEmoji": "🇸🇪",
-      "code": "se",
-      "hl": [
-        "sv",
-        "en"
-      ],
-      "region": "Europe"
-    },
-    {
-      "displayName": "Netherlands",
-      "nativeName": "Nederland",
-      "flagEmoji": "🇳🇱",
-      "code": "nl",
-      "hl": [
-        "nl",
-        "en"
-      ],
-      "region": "Europe"
-    }
-  ]
+   "version":1,
+   "countries":[
+      {
+         "code":"in",
+         "name":"India",
+         "flagEmoji":"🇮🇳",
+         "nativeName":"भारत",
+         "gl":"IN",
+         "languages":[
+            {
+               "hl":"hi",
+               "displayName":"हिन्दी"
+            },
+            {
+               "hl":"bn",
+               "displayName":"বাংলা"
+            },
+            {
+               "hl":"mr",
+               "displayName":"मराठी"
+            },
+            {
+               "hl":"ta",
+               "displayName":"தமிழ்"
+            },
+            {
+               "hl":"te",
+               "displayName":"తెలుగు"
+            },
+            {
+               "hl":"kn",
+               "displayName":"ಕನ್ನಡ"
+            },
+            {
+               "hl":"gu",
+               "displayName":"ગુજરાતી"
+            },
+            {
+               "hl":"ml",
+               "displayName":"മലയാളം"
+            },
+            {
+               "hl":"pa",
+               "displayName":"ਪੰਜਾਬੀ"
+            },
+            {
+               "hl":"or",
+               "displayName":"ଓଡ଼ିଆ"
+            },
+            {
+               "hl":"as",
+               "displayName":"অসমীয়া"
+            },
+            {
+               "hl":"ur",
+               "displayName":"اردو"
+            },
+            {
+               "hl":"ne",
+               "displayName":"नेपाली"
+            },
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"ca",
+         "name":"Canada",
+         "flagEmoji":"🇨🇦",
+         "nativeName":"Canada",
+         "gl":"CA",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            },
+            {
+               "hl":"fr",
+               "displayName":"Français"
+            }
+         ]
+      },
+      {
+         "code":"au",
+         "name":"Australia",
+         "flagEmoji":"🇦🇺",
+         "nativeName":"Australia",
+         "gl":"AU",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"de",
+         "name":"Germany",
+         "flagEmoji":"🇩🇪",
+         "nativeName":"Deutschland",
+         "gl":"DE",
+         "languages":[
+            {
+               "hl":"de",
+               "displayName":"Deutsch"
+            }
+         ]
+      },
+      {
+         "code":"fr",
+         "name":"France",
+         "flagEmoji":"🇫🇷",
+         "nativeName":"France",
+         "gl":"FR",
+         "languages":[
+            {
+               "hl":"fr",
+               "displayName":"Français"
+            }
+         ]
+      },
+      {
+         "code":"gb",
+         "name":"United Kingdom",
+         "flagEmoji":"🇬🇧",
+         "nativeName":"United Kingdom",
+         "gl":"GB",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"us",
+         "name":"United States",
+         "flagEmoji":"🇺🇸",
+         "nativeName":"United States",
+         "gl":"US",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            },
+            {
+               "hl":"es",
+               "displayName":"Español"
+            }
+         ]
+      },
+      {
+         "code":"jp",
+         "name":"Japan",
+         "flagEmoji":"🇯🇵",
+         "nativeName":"日本",
+         "gl":"JP",
+         "languages":[
+            {
+               "hl":"ja",
+               "displayName":"日本語"
+            }
+         ]
+      },
+      {
+         "code":"kr",
+         "name":"South Korea",
+         "flagEmoji":"🇰🇷",
+         "nativeName":"대한민국",
+         "gl":"KR",
+         "languages":[
+            {
+               "hl":"ko",
+               "displayName":"한국어"
+            }
+         ]
+      },
+      {
+         "code":"nl",
+         "name":"Netherlands",
+         "flagEmoji":"🇳🇱",
+         "nativeName":"Nederland",
+         "gl":"NL",
+         "languages":[
+            {
+               "hl":"nl",
+               "displayName":"Nederlands"
+            }
+         ]
+      },
+      {
+         "code":"sg",
+         "name":"Singapore",
+         "flagEmoji":"🇸🇬",
+         "nativeName":"Singapore",
+         "gl":"SG",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            },
+            {
+               "hl":"zh-Hans",
+               "displayName":"简体中文"
+            }
+         ]
+      },
+      {
+         "code":"br",
+         "name":"Brazil",
+         "flagEmoji":"🇧🇷",
+         "nativeName":"Brasil",
+         "gl":"BR",
+         "languages":[
+            {
+               "hl":"pt-419",
+               "displayName":"Português"
+            }
+         ]
+      },
+      {
+         "code":"za",
+         "name":"South Africa",
+         "flagEmoji":"🇿🇦",
+         "nativeName":"South Africa",
+         "gl":"ZA",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"ch",
+         "name":"Switzerland",
+         "flagEmoji":"🇨🇭",
+         "nativeName":"Schweiz",
+         "gl":"CH",
+         "languages":[
+            {
+               "hl":"de",
+               "displayName":"Deutsch"
+            },
+            {
+               "hl":"fr",
+               "displayName":"Français"
+            },
+            {
+               "hl":"it",
+               "displayName":"Italiano"
+            }
+         ]
+      },
+      {
+         "code":"es",
+         "name":"Spain",
+         "flagEmoji":"🇪🇸",
+         "nativeName":"España",
+         "gl":"ES",
+         "languages":[
+            {
+               "hl":"es",
+               "displayName":"Español"
+            }
+         ]
+      },
+      {
+         "code":"it",
+         "name":"Italy",
+         "flagEmoji":"🇮🇹",
+         "nativeName":"Italia",
+         "gl":"IT",
+         "languages":[
+            {
+               "hl":"it",
+               "displayName":"Italiano"
+            }
+         ]
+      },
+      {
+         "code":"se",
+         "name":"Sweden",
+         "flagEmoji":"🇸🇪",
+         "nativeName":"Sverige",
+         "gl":"SE",
+         "languages":[
+            {
+               "hl":"sv",
+               "displayName":"Svenska"
+            }
+         ]
+      },
+      {
+         "code":"no",
+         "name":"Norway",
+         "flagEmoji":"🇳🇴",
+         "nativeName":"Norge",
+         "gl":"NO",
+         "languages":[
+            {
+               "hl":"no",
+               "displayName":"Norsk"
+            }
+         ]
+      },
+      {
+         "code":"dk",
+         "name":"Denmark",
+         "flagEmoji":"🇩🇰",
+         "nativeName":"Danmark",
+         "gl":"DK",
+         "languages":[
+            {
+               "hl":"da",
+               "displayName":"Dansk"
+            }
+         ]
+      },
+      {
+         "code":"fi",
+         "name":"Finland",
+         "flagEmoji":"🇫🇮",
+         "nativeName":"Suomi",
+         "gl":"FI",
+         "languages":[
+            {
+               "hl":"fi",
+               "displayName":"Suomi"
+            }
+         ]
+      },
+      {
+         "code":"ie",
+         "name":"Ireland",
+         "flagEmoji":"🇮🇪",
+         "nativeName":"Ireland",
+         "gl":"IE",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"nz",
+         "name":"New Zealand",
+         "flagEmoji":"🇳🇿",
+         "nativeName":"New Zealand",
+         "gl":"NZ",
+         "languages":[
+            {
+               "hl":"en",
+               "displayName":"English"
+            }
+         ]
+      },
+      {
+         "code":"be",
+         "name":"Belgium",
+         "flagEmoji":"🇧🇪",
+         "nativeName":"België",
+         "gl":"BE",
+         "languages":[
+            {
+               "hl":"nl",
+               "displayName":"Nederlands"
+            },
+            {
+               "hl":"fr",
+               "displayName":"Français"
+            }
+         ]
+      },
+      {
+         "code":"pt",
+         "name":"Portugal",
+         "flagEmoji":"🇵🇹",
+         "nativeName":"Portugal",
+         "gl":"PT",
+         "languages":[
+            {
+               "hl":"pt-PT",
+               "displayName":"Português"
+            }
+         ]
+      },
+      {
+         "code":"at",
+         "name":"Austria",
+         "flagEmoji":"🇦🇹",
+         "nativeName":"Österreich",
+         "gl":"AT",
+         "languages":[
+            {
+               "hl":"de",
+               "displayName":"Deutsch"
+            }
+         ]
+      }
+   ]
 }
