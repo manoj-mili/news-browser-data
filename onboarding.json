@@ -4,9 +4,7 @@
       "categoriesVersion":2,
       "countriesVersion":1
    },
-   "categories":[
-      {
-         "version":2,
+
          "categories":[
             {
                "id":"NATION",
@@ -84,8 +82,6 @@
                "priority":5,
                "notes":"Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis.",
                "hide_from_user_selection":false
-            }
-         ]
       }
    ],
    "countries":[
