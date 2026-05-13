@@ -2,8 +2,8 @@
   "version": 2,
   "categories": [
     {
-      "id": "top",
-      "display_name": "Top Stories",
+      "id": "NATION",
+      "display_name": "Nation",
       "emoji_light": "⭐",
       "emoji_dark": "⭐",
       "color_light": "#6200EE",
@@ -13,19 +13,8 @@
       "hide_from_user_selection": true
     },
     {
-      "id": "politics",
-      "display_name": "Politics",
-      "emoji_light": "🏛️",
-      "emoji_dark": "🏛️",
-      "color_light": "#1565C0",
-      "color_dark": "#90CAF9",
-      "priority": 2,
-      "notes": "Government policies, elections, political parties, governance, parliament, legislation, public administration.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "world_affairs",
-      "display_name": "World Affairs",
+      "id": "WORLD",
+      "display_name": "World",
       "emoji_light": "🗺️",
       "emoji_dark": "🗺️",
       "color_light": "#00796B",
@@ -35,7 +24,7 @@
       "hide_from_user_selection": false
     },
     {
-      "id": "business",
+      "id": "BUSINESS",
       "display_name": "Business",
       "emoji_light": "📈",
       "emoji_dark": "📈",
@@ -46,18 +35,7 @@
       "hide_from_user_selection": false
     },
     {
-      "id": "sports",
-      "display_name": "Sports",
-      "emoji_light": "⚽",
-      "emoji_dark": "⚽",
-      "color_light": "#C62828",
-      "color_dark": "#EF9A9A",
-      "priority": 5,
-      "notes": "Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "entertainment",
+      "id": "ENTERTAINMENT",
       "display_name": "Entertainment",
       "emoji_light": "🎬",
       "emoji_dark": "🎬",
@@ -68,18 +46,7 @@
       "hide_from_user_selection": false
     },
     {
-      "id": "technology",
-      "display_name": "Technology",
-      "emoji_light": "🤖",
-      "emoji_dark": "🤖",
-      "color_light": "#6A1B9A",
-      "color_dark": "#CE93D8",
-      "priority": 7,
-      "notes": "Tech industry, gadgets, AI, cybersecurity, apps, telecom, software, innovation, startups.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "science",
+      "id": "SCIENCE",
       "display_name": "Science",
       "emoji_light": "🧪",
       "emoji_dark": "🧪",
@@ -90,7 +57,7 @@
       "hide_from_user_selection": false
     },
     {
-      "id": "health",
+      "id": "HEALTH",
       "display_name": "Health",
       "emoji_light": "🩺",
       "emoji_dark": "🩺",
@@ -101,47 +68,14 @@
       "hide_from_user_selection": false
     },
     {
-      "id": "environment",
-      "display_name": "Environment",
-      "emoji_light": "🌱",
-      "emoji_dark": "🌱",
-      "color_light": "#00695C",
-      "color_dark": "#4DB6AC",
-      "priority": 10,
-      "notes": "Climate change, sustainability, pollution, conservation, wildlife, weather impact, natural disasters, ecological policy.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "lifestyle",
-      "display_name": "Lifestyle",
-      "emoji_light": "☕",
-      "emoji_dark": "☕",
-      "color_light": "#F57F17",
-      "color_dark": "#FFF176",
-      "priority": 11,
-      "notes": "Fashion, beauty, style, relationships, home, wellness, personal life, trends, magazines.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "opinions",
-      "display_name": "Opinions",
-      "emoji_light": "✍️",
-      "emoji_dark": "✍️",
-      "color_light": "#455A64",
-      "color_dark": "#CFD8DC",
-      "priority": 12,
-      "notes": "Editorials, analysis, commentary, columns, perspectives from experts and public voices.",
-      "hide_from_user_selection": false
-    },
-    {
-      "id": "automotive",
-      "display_name": "Automotive",
-      "emoji_light": "🚘",
-      "emoji_dark": "🚘",
-      "color_light": "#37474F",
-      "color_dark": "#B0BEC5",
-      "priority": 13,
-      "notes": "Cars, EVs, auto reviews, transportation policy, auto industry news.",
+      "id": "SPORTS",
+      "display_name": "Sports",
+      "emoji_light": "⚽",
+      "emoji_dark": "⚽",
+      "color_light": "#C62828",
+      "color_dark": "#EF9A9A",
+      "priority": 5,
+      "notes": "Cricket, football, tennis, Olympics, leagues, tournaments, athlete profiles, match analysis.",
       "hide_from_user_selection": false
     }
   ]
